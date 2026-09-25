@@ -1,0 +1,146 @@
+[
+  {
+    "id": "q01",
+    "question": "Hội An mùa nào đẹp nhất để đi du lịch?",
+    "expected_answer": "Ba tháng đầu năm là thời gian lý tưởng nhất để đi Hội An vì nắng không quá gắt, trời mát mẻ, thỉnh thoảng có mưa nhỏ.",
+    "expected_context": "Ba tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ.",
+    "source": "news/cam-nang-hoi-an.md",
+    "type": "news"
+  },
+  {
+    "id": "q02",
+    "question": "Vé vào Đại Nội Huế giá bao nhiêu và nên tham quan vào lúc nào?",
+    "expected_answer": "Vé vào Đại Nội Huế giá 200.000 đồng một người. Nên đến từ sáng sớm khi mở cửa lúc 7h, mang mũ nón tránh nắng và dành ít nhất 3 tiếng tham quan.",
+    "expected_context": "bạn nên đến từ sáng sớm ngay khi mở cửa lúc 7h và mang theo mũ, nón tránh nắng. Bạn cần ít nhất 3 tiếng tham quan khu di tích. Vé vào Đại Nội giá 200.000 đồng một người.",
+    "source": "news/cam-nang-hue.md",
+    "type": "news"
+  },
+  {
+    "id": "q03",
+    "question": "Đà Nẵng có mấy mùa trong năm, mùa khô và mùa mưa kéo dài từ tháng nào?",
+    "expected_answer": "Đà Nẵng có hai mùa rõ rệt: mùa khô từ tháng 1 đến tháng 7 và mùa mưa từ tháng 8 đến tháng 12.",
+    "expected_context": "Mỗi năm có hai mùa rõ rệt: mùa khô từ tháng 1 đến tháng 7 và mùa mưa từ tháng 8 đến tháng 12, đôi khi có những đợt rét mùa đông nhưng không kéo dài và trời không rét đậm.",
+    "source": "news/cam-nang-da-nang.md",
+    "type": "news"
+  },
+  {
+    "id": "q04",
+    "question": "Thời tiết Nha Trang trong năm như thế nào, khi nào mưa nhiều?",
+    "expected_answer": "Nha Trang có khí hậu ôn hòa, mùa khô từ tháng 1 đến tháng 8, không có mùa đông lạnh nên có thể đi quanh năm. Tháng 9 bắt đầu mưa rải rác; từ tháng 10 đến tháng 12 mưa nhiều hơn, có thể kèm không khí lạnh.",
+    "expected_context": "Khí hậu ở Nha Trang tương đối ôn hòa, với mùa khô kéo dài từ tháng 1 đến tháng 8, không có mùa đông lạnh. Do đó du khách có thể tới đây du lịch quanh năm. Tháng 9 trời bắt đầu có mưa rải rác. Từ tháng 10 đến tháng 12, trời mưa nhiều hơn, có thể kèm theo không khí lạnh.",
+    "source": "news/cam-nang-nha-trang.md",
+    "type": "news"
+  },
+  {
+    "id": "q05",
+    "question": "Ngoài hải sản, Nha Trang có những đặc sản nào?",
+    "expected_answer": "Ngoài hải sản, Nha Trang có bánh xèo mực, nem nướng, bún chả cá, bánh căn, bánh ướt.",
+    "expected_context": "Ngoài hải sản, thành phố còn rất nhiều đặc sản, món ăn hấp dẫn như bánh xèo mực, nem nướng, bún chả cá, bánh căn, bánh ướt...",
+    "source": "news/cam-nang-nha-trang.md",
+    "type": "news"
+  },
+  {
+    "id": "q06",
+    "question": "Bãi Sao ở Phú Quốc nằm ở đâu và có gì hấp dẫn?",
+    "expected_answer": "Bãi Sao thuộc thị trấn An Thới, cách Dương Đông khoảng 28 km, có nước trong xanh, cát trắng mịn dài hơn 7 km, nước lặng sóng êm nên có nhiều hoạt động thể thao nước như chèo kayak (thuê thuyền 100.000 - 150.000 đồng).",
+    "expected_context": "Bãi Sao là một trong những bãi biển đẹp nhất Phú Quốc, thuộc thị trấn An Thới, cách thị trấn Dương Đông khoảng 28 km. Nơi đây có làn nước trong xanh, nổi bật trên dải cát màu trắng mịn dài hơn 7 km. Ngoài ra, nơi này nước lặng, sóng êm nên có nhiều hoạt động thể thao dưới nước, nổi bật là chèo thuyền kayak. Giá thuyền cho thuê từ 100.000 - 150.000 đồng.",
+    "source": "news/cam-nang-phu-quoc.md",
+    "type": "news"
+  },
+  {
+    "id": "q07",
+    "question": "Dinh Bà và Dinh Cậu ở Phú Quốc là gì?",
+    "expected_answer": "Dinh Bà và Dinh Cậu là hai điểm đến linh thiêng nhất Phú Quốc, ở thị trấn Dương Đông, nơi ngư dân cầu an, cầu mưa thuận gió hòa; lễ hội lớn tổ chức vào 15 tháng Giêng hằng năm.",
+    "expected_context": "Dinh Bà và Dinh Cậu là 2 điểm đến linh thiêng nhất tại Phú Quốc, nằm tại thị trấn Dương Đông. Gắn với nhiều truyền thuyết về Cậu Quý, Cậu Tài, Chúa ngọc nương nương, Thủy Long Thánh Mẫu, đây là nơi ngư dân tới cầu an, cầu mưa thuận gió hòa, mùa đánh cá bội thu. Vào 15 tháng Giêng hàng năm, ở đây tổ chức các lễ hội lớn.",
+    "source": "news/cam-nang-phu-quoc.md",
+    "type": "news"
+  },
+  {
+    "id": "q08",
+    "question": "Phở có nguồn gốc từ đâu?",
+    "expected_answer": "Phở được cho là ra đời vào đầu thế kỷ 20, xuất xứ thường được cho là Hà Nội hoặc Nam Định (làng Vân Cù). Một giả thuyết khác cho rằng phở bắt nguồn từ món bò hầm pot-au-feu của Pháp kết hợp gia vị Việt.",
+    "expected_context": "Phở như ngày nay được cho là đã ra đời và định hình vào những năm đầu thế kỷ 20. Hà Nội hay Nam Định là địa phương thường được cho là xuất xứ của phở. Ở Nam Định, phở có nguồn gốc từ làng Vân Cù. Cũng có giả thuyết khác cho rằng, phở có nguồn gốc từ phương pháp chế biến món thịt bò hầm của Pháp pot-au-feu kết hợp với các loại gia vị và rau thơm trong ẩm thực Việt Nam.",
+    "source": "news/wiki-pho.md",
+    "type": "news"
+  },
+  {
+    "id": "q09",
+    "question": "Nguyên liệu chính của bún bò Huế là gì?",
+    "expected_answer": "Bún bò Huế gồm bún, thịt bắp bò, giò heo, với nước dùng màu đỏ đặc trưng từ ớt, cùng vị sả và ruốc.",
+    "expected_context": "nguyên liệu chính là bún, thịt bắp bò, giò heo, cùng nước dùng có màu đỏ đặc trưng do ớt và vị sả và ruốc.",
+    "source": "news/wiki-bun-bo-hue.md",
+    "type": "news"
+  },
+  {
+    "id": "q10",
+    "question": "Gỏi cuốn gồm những thành phần chính nào?",
+    "expected_answer": "Gỏi cuốn gồm thịt heo, tôm, rau thơm, bún, được cuốn trong bánh tráng.",
+    "expected_context": "Gỏi cuốn được cuốn trong bánh tráng. Thành phần chính: Thịt heo, tôm, rau thơm, bún, bánh tráng.",
+    "source": "news/wiki-goi-cuon.md",
+    "type": "news"
+  },
+  {
+    "id": "q11",
+    "question": "Cách gọi 'Hà Nội 36 phố phường' có chính xác không?",
+    "expected_answer": "Không hoàn toàn chính xác: 'Hà Nội 36 phố phường' là cách gọi không chính xác của khu phố cổ.",
+    "expected_context": "Khu \"Hà Nội 36 phố phường\" là một cách gọi không chính xác của khu phố cổ, vì 36 phố",
+    "source": "news/wiki-pho-co-ha-noi.md",
+    "type": "news"
+  },
+  {
+    "id": "q12",
+    "question": "Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa hiện nay là bao nhiêu?",
+    "expected_answer": "Theo Nghị định 94/2021/NĐ-CP (sửa Điều 14 Nghị định 168/2017), mức ký quỹ kinh doanh dịch vụ lữ hành nội địa là 20.000.000 đồng.",
+    "expected_context": "1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 20.000.000 (hai mươi triệu) đồng.",
+    "source": "legal/nghi-dinh-94-2021-ky-quy-lu-hanh.md",
+    "type": "legal"
+  },
+  {
+    "id": "q13",
+    "question": "Mức ký quỹ kinh doanh lữ hành quốc tế theo Nghị định 94/2021 là bao nhiêu?",
+    "expected_answer": "Kinh doanh lữ hành đối với khách quốc tế đến Việt Nam ký quỹ 50.000.000 đồng; đối với khách du lịch ra nước ngoài ký quỹ 100.000.000 đồng.",
+    "expected_context": "2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế: a) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 50.000.000 (năm mươi triệu) đồng; b) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng;",
+    "source": "legal/nghi-dinh-94-2021-ky-quy-lu-hanh.md",
+    "type": "legal"
+  },
+  {
+    "id": "q14",
+    "question": "Theo Luật Du lịch 2017, du lịch được định nghĩa như thế nào?",
+    "expected_answer": "Du lịch là các hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp mục đích hợp pháp khác.",
+    "expected_context": "1. Du lịch là các hoạt động có liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp với mục đích hợp pháp khác.",
+    "source": "legal/luat-du-lich-2017.md",
+    "type": "legal"
+  },
+  {
+    "id": "q15",
+    "question": "Khách du lịch có những quyền gì theo Luật Du lịch?",
+    "expected_answer": "Khách du lịch có quyền sử dụng dịch vụ du lịch hoặc tự đi du lịch; yêu cầu tổ chức, cá nhân kinh doanh cung cấp thông tin về chương trình, dịch vụ, điểm đến theo hợp đồng; được tạo điều kiện thuận lợi về xuất nhập cảnh, quá cảnh, hải quan, lưu trú, đi lại...",
+    "expected_context": "Điều 11. Quyền của khách du lịch. 1. Sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch. 2. Yêu cầu tổ chức, cá nhân kinh doanh du lịch cung cấp thông tin về chương trình, dịch vụ, điểm đến du lịch theo hợp đồng đã ký kết. 3. Được tạo điều kiện thuận lợi về xuất cảnh, nhập cảnh, quá cảnh, hải quan, lưu cư trú, đi lại trên lãnh thổ Việt Nam.",
+    "source": "legal/luat-du-lich-2017.md",
+    "type": "legal"
+  },
+  {
+    "id": "q16",
+    "question": "Thẻ hướng dẫn viên du lịch quốc tế và nội địa có thời hạn bao lâu?",
+    "expected_answer": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm.",
+    "expected_context": "Thẻ hướng dẫn viên du lịch bao gồm thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa và thẻ hướng dẫn viên du lịch tại điểm. Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm.",
+    "source": "legal/luat-du-lich-2017.md",
+    "type": "legal"
+  },
+  {
+    "id": "q17",
+    "question": "Thị thực du lịch (DL) và thị thực điện tử (EV) có thời hạn tối đa bao lâu?",
+    "expected_answer": "Thị thực ký hiệu HN, DL, EV có thời hạn không quá 90 ngày.",
+    "expected_context": "Thị thực ký hiệu HN, DL, EV có thời hạn không quá 90 ngày.",
+    "source": "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+    "type": "legal"
+  },
+  {
+    "id": "q18",
+    "question": "Sau khi nộp đủ thông tin và phí, bao lâu thì có kết quả cấp thị thực điện tử?",
+    "expected_answer": "Cơ quan quản lý xuất nhập cảnh xem xét và trả lời trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ thông tin đề nghị và phí cấp thị thực điện tử.",
+    "expected_context": "Cơ quan quản lý xuất nhập cảnh xem xét, giải quyết, trả lời người đề nghị cấp thị thực điện tử tại Trang thông tin cấp thị thực điện tử trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ thông tin đề nghị cấp thị thực điện tử và phí cấp thị thực.",
+    "source": "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+    "type": "legal"
+  }
+]

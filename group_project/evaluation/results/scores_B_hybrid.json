@@ -1,0 +1,524 @@
+[
+  {
+    "id": "q01",
+    "question": "Hội An mùa nào đẹp nhất để đi du lịch?",
+    "answer": "Chào bạn, VietGo xin chia sẻ thông tin về thời điểm đẹp nhất để du lịch Hội An dựa trên tài liệu:\n\n- **Ba tháng đầu năm:** Đây là thời gian lý tưởng nhất để rong chơi tại Hội An vì nắng không quá gắt, trời mát mẻ và thi thoảng có mưa nhỏ [1].\n- **Từ tháng 4 đến tháng 6:** Giai đoạn này là mùa khô gay gắt nhưng thời tiết khá dễ chịu do nằm ở phía nam dãy Trường Sơn [1]. Đây cũng là mùa cao điểm du lịch thu hút đông khách nhất [1][5].",
+    "reference": "Ba tháng đầu năm là thời gian lý tưởng nhất để đi Hội An vì nắng không quá gắt, trời mát mẻ, thỉnh thoảng có mưa nhỏ.",
+    "contexts": [
+      "### Hội An mùa nào đẹp?\nKhí hậu Hội An đan xen khí hậu giữa miền Nam và miền Bắc, rõ rệt mùa mưa và mùa khô. Mỗi mùa phố cổ lại có những nét đẹp riêng.\nBa tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ.\nTừ tháng 4 đến tháng 6 là giai đoạn gay gắt của mùa khô, nhưng thời tiết Hội An khá dễ chịu, do nằm ở phía nam dãy Trường Sơn. Đây cũng là mùa cao điểm du lịch.\nMùa mưa, không ít khách du lịch vẫn tìm đến Hội An để có những trải nghiệm khác lạ. Ảnh: Đỗ Anh Vũ\nTháng 7 vẫn đang là mùa khô. Sang tháng 8 và 9 là thời điểm giao mùa. Trời vẫn nắng nhẹ, bắt đầu có mưa lác đác và se lạnh về đêm.",
+      "### **Huế mùa nào đẹp?**\nMùa du lịch Huế từ tháng 11 năm trước đến tháng 4 năm sau, đẹp nhất là 3-4 tháng đầu năm, tiết trời mát mẻ. Với những du khách yêu núi, biển, thích ngắm bình minh và hoàng hôn, thời điểm nên đi là tháng 6-8 khi mặt trời đẹp nhất trong năm, nước biển xanh nhất.\nHuế không hẳn có mùa khô, mà chỉ có mùa mưa và mùa ít mưa. Mùa ít mưa thường kéo dài từ tháng 3 đến tháng 8, trời nóng nực và oi bức. Khoảng tháng 9 đến tháng 1 năm sau là mùa mưa, trời lạnh. Đặc biệt, từ tháng 10 đến tháng 11 cũng chính là mùa bão, mưa to tưởng như không dứt.",
+      "Ba tháng cuối năm là mùa mưa ở Hội An, trời ít khi nắng, mưa nặng hạt và đôi khi có lũ lụt. Những du khách từ miền Nam đến Hội An mùa lạnh nên chuẩn bị trang phục phù hợp, tránh để sức khỏe bị ảnh hưởng.",
+      "### Phú Quốc mùa nào đẹp?\nThời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời. Mùa này thích hợp cho những tour du lịch nghỉ dưỡng, không thích hợp cho khách đi bụi hoặc đi phượt.\n\nTừ khoảng tháng 5 đến tháng 10 là mùa mưa, đôi khi có bão nhưng Phú Quốc vẫn đông khách do rơi vào khoảng thời gian nghỉ hè. Nếu đi Phú Quốc mùa này, bạn nên đến vào khoảng cuối tháng 4, lúc này khách vẫn chưa đông và thời tiết còn đẹp, giá cả cũng không tăng quá cao như mùa cao điểm. Tháng 10 cũng là thời điểm giao mùa nên ít mưa.",
+      "Hội An mỗi mùa có một vẻ đẹp riêng, nhưng thu hút đông khách nhất vẫn là dịp hè. Do đó nếu đi mùa này bạn nên tìm hiểu nơi ở để đặt phòng càng sớm càng có giá tốt, đặc biệt là những ngày cuối tuần.\nGiá khách sạn, resort 4 hoặc 5 sao ở đây vào khoảng 2.500.000 đồng trở lên cho một đêm phòng hai người. Hội An ngày càng có nhiều khu resort mới với vị trí đẹp như ở phường Cẩm Châu, ven biển An Bàng, Cửa Đại..."
+    ],
+    "sources": [
+      "news/cam-nang-hoi-an.md",
+      "news/cam-nang-hue.md",
+      "news/cam-nang-hoi-an.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-hoi-an.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8943440914154053,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 6.67,
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.9621487287899112,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999
+  },
+  {
+    "id": "q02",
+    "question": "Vé vào Đại Nội Huế giá bao nhiêu và nên tham quan vào lúc nào?",
+    "answer": "- Vé vào Đại Nội Huế có giá 200.000 đồng một người [1].\n- Bạn nên đến tham quan từ sáng sớm ngay khi mở cửa lúc 7h (đặc biệt vào mùa hè để tránh nắng nóng) và cần dành ít nhất 3 tiếng cho khu di tích [1].",
+    "reference": "Vé vào Đại Nội Huế giá 200.000 đồng một người. Nên đến từ sáng sớm khi mở cửa lúc 7h, mang mũ nón tránh nắng và dành ít nhất 3 tiếng tham quan.",
+    "contexts": [
+      "Vì khuôn viên Đại Nội Huế rất rộng cũng như tiết trời nắng nóng mùa hè, bạn nên đến từ sáng sớm ngay khi mở cửa lúc 7h và mang theo mũ, nón tránh nắng. Bạn cần ít nhất 3 tiếng tham quan khu di tích. Vé vào Đại Nội giá 200.000 đồng một người. Khi ghé thăm các điểm tham quan tại Huế, du khách có thể thuê áo Nhật Bình chụp ảnh để hóa thân thành hậu, phi, công chúa thời xưa.\nĐại Nội Huế. Ảnh: Ngô Trần Hải An\n> Nhà thờ Phủ Cam\nNằm ở số 1 đường Đoàn Hữu Trưng, công trình kiến trúc độc đáo là điểm \"sống ảo\" đẹp như trời Âu. Trải qua thăng trầm lịch sử, nhà thờ Phủ Cam được cho là đẹp nhất xứ Huế này đã có trên dưới 10 lần xây dựng lại kể từ năm 1682.",
+      "Thời điểm thích hợp nhất để đến Vọng Cảnh là vào hoàng hôn, ngắm nhìn sông Hương đỏ lên dưới ánh mặt trời cùng những chiếc thuyền rồng nhẹ trôi, xa xa là núi đồi.\n> Đại Nội Huế\nĐại Nội Huế có hơn 100 công trình kiến trúc nổi bật như Ngọ Môn, Điện Thái Hòa, Cung Diên Thọ, Cung Trường Sanh, Hưng Miếu, Thế Miếu... Quần thể công trình cổ kính này được bố trí theo nguyên tắc \"tả nam hữu nữ\", \"tả văn hữu võ\", tính từ trong ra. Ngay cả các miếu thờ cũng có sự sắp xếp theo thứ tự \"tả chiêu hữu mục\" (trái trước, phải sau, lần lượt theo thời gian).",
+      "Chợ bán từ 7h sáng tới chiều muộn nên du khách có thể ghé lúc nào tùy thích. Tuy nhiên sau 16h có nhiều hàng ăn vặt mở cửa hơn. Khi mua hàng có thể mặc cả.\n> Quốc học Huế\nĐây là trường trung học đầu tiên của Huế xây từ thời vua Thành Thái, vào năm 1896. Hiện trường nằm ở số 12 đường Lê Lợi, ngay trung tâm. Trường nổi bật với màu sơn đỏ rực rỡ và những hàng cây cổ thụ xanh mướt quanh năm. Khuôn viên Quốc học Huế rất rộng nên bạn cứ thư thả đi dạo các hành lang, lớp học, sân trường, tham quan những kiến trúc Pháp xưa và chụp hình lưu niệm.\nBạn ghé trường vào buổi trưa như 11h30 hoặc sau 17h để tham quan và chụp ảnh lúc vắng học sinh. Trường có nhiều cây lớn rất mát mẻ, nếu đi vào sáng sớm có thể bảo vệ không cho vào vì trong giờ học của học sinh. Phí gửi xe vào trường là 5.000 đồng.",
+      "Xe khách: Từ Hà Nội đến Huế bạn mua vé xe các hãng như Hưng Thành, Camel, Queen, Đức Thịnh... Chặng Hà Nội - Huế và ngược lại có giá 250.000 - 300.000 đồng một chiều. Xe thường chạy từ 18h hôm trước tới 6h sáng hôm sau đến Huế nên bạn chỉ cần đặt chỗ giường nằm và ngủ một giấc sẽ tới nơi.\nTại Huế, để tiết kiệm chi phí và tự do dừng nghỉ khi di chuyển bạn nên thuê xe máy tại chỗ ở. Giá thuê xe máy số 80.000 đồng một ngày, xe tay ga 130.000 đồng một ngày, chưa tính tiền xăng.",
+      "### **Khách sạn, resort**\nKhách sạn ở Huế giá dễ chịu. Bạn nên đặt phòng ở trung tâm, gần các bến tàu, xe để dễ đi lại cũng như tham quan các địa điểm du lịch nội đô và điểm ăn uống. Các homestay, hostel nằm ngay trung tâm như a-mâze house, Sunshine, Tò Vò, Trầm... giá chỉ 100.000 - 200.000 đồng một đêm phù hợp cho người đi một mình hoặc nhóm bạn trẻ. Nếu đi đông, bạn nên đặt trước qua các kênh đặt phòng trực tuyến như Booking, Agoda, Traveloka, Vntrip... để có giá tốt."
+    ],
+    "sources": [
+      "news/cam-nang-hue.md",
+      "news/cam-nang-hue.md",
+      "news/cam-nang-hue.md",
+      "news/cam-nang-hue.md",
+      "news/cam-nang-hue.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8550102114677429,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 5.28,
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.9820348944478334,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999
+  },
+  {
+    "id": "q03",
+    "question": "Đà Nẵng có mấy mùa trong năm, mùa khô và mùa mưa kéo dài từ tháng nào?",
+    "answer": "Dựa trên tài liệu, Đà Nẵng có hai mùa rõ rệt trong năm:\n- Mùa khô kéo dài từ tháng 1 đến tháng 7 [1].\n- Mùa mưa kéo dài từ tháng 8 đến tháng 12 [1].",
+    "reference": "Đà Nẵng có hai mùa rõ rệt: mùa khô từ tháng 1 đến tháng 7 và mùa mưa từ tháng 8 đến tháng 12.",
+    "contexts": [
+      "### Đà Nẵng mùa nào đẹp\nĐà Nẵng là nơi chuyển tiếp đan xen giữa khí hậu miền Bắc và miền Nam, với tính trội là khí hậu nhiệt đới ở phía Nam. Mỗi năm có hai mùa rõ rệt: mùa khô từ tháng 1 đến tháng 7 và mùa mưa từ tháng 8 đến tháng 12, đôi khi có những đợt rét mùa đông nhưng không kéo dài và trời không rét đậm.\n\n**Cuối tháng 12 đến cuối tháng 3** : Tiết trời mát mẻ và dễ chịu, lý tưởng nhất cho các chuyến du xuân. Giá cả dịch vụ khách sạn, ăn uống vào thời gian này được cho là bình ổn nhất trong năm. Lưu ý, du khách nên mang thêm áo khoác mỏng vì trời có thể se lạnh vào buổi tối, thi thoảng có mưa xuân.",
+      "### **Huế mùa nào đẹp?**\nMùa du lịch Huế từ tháng 11 năm trước đến tháng 4 năm sau, đẹp nhất là 3-4 tháng đầu năm, tiết trời mát mẻ. Với những du khách yêu núi, biển, thích ngắm bình minh và hoàng hôn, thời điểm nên đi là tháng 6-8 khi mặt trời đẹp nhất trong năm, nước biển xanh nhất.\nHuế không hẳn có mùa khô, mà chỉ có mùa mưa và mùa ít mưa. Mùa ít mưa thường kéo dài từ tháng 3 đến tháng 8, trời nóng nực và oi bức. Khoảng tháng 9 đến tháng 1 năm sau là mùa mưa, trời lạnh. Đặc biệt, từ tháng 10 đến tháng 11 cũng chính là mùa bão, mưa to tưởng như không dứt.",
+      "### Hội An mùa nào đẹp?\nKhí hậu Hội An đan xen khí hậu giữa miền Nam và miền Bắc, rõ rệt mùa mưa và mùa khô. Mỗi mùa phố cổ lại có những nét đẹp riêng.\nBa tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ.\nTừ tháng 4 đến tháng 6 là giai đoạn gay gắt của mùa khô, nhưng thời tiết Hội An khá dễ chịu, do nằm ở phía nam dãy Trường Sơn. Đây cũng là mùa cao điểm du lịch.\nMùa mưa, không ít khách du lịch vẫn tìm đến Hội An để có những trải nghiệm khác lạ. Ảnh: Đỗ Anh Vũ\nTháng 7 vẫn đang là mùa khô. Sang tháng 8 và 9 là thời điểm giao mùa. Trời vẫn nắng nhẹ, bắt đầu có mưa lác đác và se lạnh về đêm.",
+      "### Nha Trang mùa nào đẹp?\nKhí hậu ở Nha Trang tương đối ôn hòa, với mùa khô kéo dài từ tháng 1 đến tháng 8, không có mùa đông lạnh. Do đó du khách có thể tới đây du lịch quanh năm. Từ tháng 4 đến hết tháng 6, trời nắng và nóng nhiều hơn, nhưng không quá oi bức.\nTháng 9 trời bắt đầu có mưa rải rác, nên không ảnh hưởng quá nhiều đến hoạt động vui chơi của du khách. Từ tháng 10 đến tháng 12, trời mưa nhiều hơn, có thể kèm theo không khí lạnh. Đây không còn là mùa cao điểm của du lịch nội địa tại Nha Trang, nên phù hợp với những du khách muốn nghỉ dưỡng yên tĩnh.",
+      "**Đầu tháng 4 đến giữa tháng 9** : Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 là mùa cây rừng thay lá vàng, lá đỏ trên bán đảo Sơn Trà.\n**Giữa tháng 9 đến cuối tháng 12** : Trời không còn nắng nóng, bắt đầu lác đác mưa rào nhưng không kéo dài. Mùa cao điểm đã qua, nên vé máy bay, dịch vụ lưu trú, ăn uống có giá cả hợp lý.\n\nĐà Nẵng trong sương. Ảnh: Nguyễn Sanh Quốc Huy\nNếu đang lên kế hoạch đến Đà Nẵng năm 2022, bạn có thể tham khảo một số sự kiện sắp tới: Lễ hội \"Tuyệt vời Đà Nẵng 2022\" kéo dài suốt tháng 7; Lễ Hội Giao lưu Văn hóa Việt Nam – Nhật Bản 15/7; Lễ hội giao lưu văn hóa Việt Nam - Hàn Quốc từ 1 đến 4/9; Lễ hội Du lịch Golf Đà Nẵng 1/9; Lễ Hội \"Đà Nẵng Chào Năm Mới 2023\" vào 1/12..."
+    ],
+    "sources": [
+      "news/cam-nang-da-nang.md",
+      "news/cam-nang-hue.md",
+      "news/cam-nang-hoi-an.md",
+      "news/cam-nang-nha-trang.md",
+      "news/cam-nang-da-nang.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8859012126922607,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 4.14,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9450389290016297,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999
+  },
+  {
+    "id": "q04",
+    "question": "Thời tiết Nha Trang trong năm như thế nào, khi nào mưa nhiều?",
+    "answer": "Chào bạn, dưới đây là thông tin về thời tiết Nha Trang dựa trên tài liệu:\n\n* Khí hậu ở Nha Trang tương đối ôn hòa, có mùa khô kéo dài từ tháng 1 đến tháng 8 và không có mùa đông lạnh, giúp du khách có thể tới đây du lịch quanh năm [1].\n* Từ tháng 4 đến hết tháng 6, trời nắng và nóng nhiều hơn nhưng không quá oi bức [1].\n* Tháng 9 trời bắt đầu có mưa rải rác và không ảnh hưởng quá nhiều đến hoạt động vui chơi [1].\n* Từ tháng 10 đến tháng 12 là thời điểm trời mưa nhiều hơn, có thể kèm theo không khí lạnh và phù hợp cho những ai muốn nghỉ dưỡng yên tĩnh vì không phải mùa cao điểm [1].",
+    "reference": "Nha Trang có khí hậu ôn hòa, mùa khô từ tháng 1 đến tháng 8, không có mùa đông lạnh nên có thể đi quanh năm. Tháng 9 bắt đầu mưa rải rác; từ tháng 10 đến tháng 12 mưa nhiều hơn, có thể kèm không khí lạnh.",
+    "contexts": [
+      "### Nha Trang mùa nào đẹp?\nKhí hậu ở Nha Trang tương đối ôn hòa, với mùa khô kéo dài từ tháng 1 đến tháng 8, không có mùa đông lạnh. Do đó du khách có thể tới đây du lịch quanh năm. Từ tháng 4 đến hết tháng 6, trời nắng và nóng nhiều hơn, nhưng không quá oi bức.\nTháng 9 trời bắt đầu có mưa rải rác, nên không ảnh hưởng quá nhiều đến hoạt động vui chơi của du khách. Từ tháng 10 đến tháng 12, trời mưa nhiều hơn, có thể kèm theo không khí lạnh. Đây không còn là mùa cao điểm của du lịch nội địa tại Nha Trang, nên phù hợp với những du khách muốn nghỉ dưỡng yên tĩnh.",
+      "### Phú Quốc mùa nào đẹp?\nThời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời. Mùa này thích hợp cho những tour du lịch nghỉ dưỡng, không thích hợp cho khách đi bụi hoặc đi phượt.\n\nTừ khoảng tháng 5 đến tháng 10 là mùa mưa, đôi khi có bão nhưng Phú Quốc vẫn đông khách do rơi vào khoảng thời gian nghỉ hè. Nếu đi Phú Quốc mùa này, bạn nên đến vào khoảng cuối tháng 4, lúc này khách vẫn chưa đông và thời tiết còn đẹp, giá cả cũng không tăng quá cao như mùa cao điểm. Tháng 10 cũng là thời điểm giao mùa nên ít mưa.",
+      "### **Huế mùa nào đẹp?**\nMùa du lịch Huế từ tháng 11 năm trước đến tháng 4 năm sau, đẹp nhất là 3-4 tháng đầu năm, tiết trời mát mẻ. Với những du khách yêu núi, biển, thích ngắm bình minh và hoàng hôn, thời điểm nên đi là tháng 6-8 khi mặt trời đẹp nhất trong năm, nước biển xanh nhất.\nHuế không hẳn có mùa khô, mà chỉ có mùa mưa và mùa ít mưa. Mùa ít mưa thường kéo dài từ tháng 3 đến tháng 8, trời nóng nực và oi bức. Khoảng tháng 9 đến tháng 1 năm sau là mùa mưa, trời lạnh. Đặc biệt, từ tháng 10 đến tháng 11 cũng chính là mùa bão, mưa to tưởng như không dứt.",
+      "### Đà Nẵng mùa nào đẹp\nĐà Nẵng là nơi chuyển tiếp đan xen giữa khí hậu miền Bắc và miền Nam, với tính trội là khí hậu nhiệt đới ở phía Nam. Mỗi năm có hai mùa rõ rệt: mùa khô từ tháng 1 đến tháng 7 và mùa mưa từ tháng 8 đến tháng 12, đôi khi có những đợt rét mùa đông nhưng không kéo dài và trời không rét đậm.\n\n**Cuối tháng 12 đến cuối tháng 3** : Tiết trời mát mẻ và dễ chịu, lý tưởng nhất cho các chuyến du xuân. Giá cả dịch vụ khách sạn, ăn uống vào thời gian này được cho là bình ổn nhất trong năm. Lưu ý, du khách nên mang thêm áo khoác mỏng vì trời có thể se lạnh vào buổi tối, thi thoảng có mưa xuân.",
+      "### Hội An mùa nào đẹp?\nKhí hậu Hội An đan xen khí hậu giữa miền Nam và miền Bắc, rõ rệt mùa mưa và mùa khô. Mỗi mùa phố cổ lại có những nét đẹp riêng.\nBa tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ.\nTừ tháng 4 đến tháng 6 là giai đoạn gay gắt của mùa khô, nhưng thời tiết Hội An khá dễ chịu, do nằm ở phía nam dãy Trường Sơn. Đây cũng là mùa cao điểm du lịch.\nMùa mưa, không ít khách du lịch vẫn tìm đến Hội An để có những trải nghiệm khác lạ. Ảnh: Đỗ Anh Vũ\nTháng 7 vẫn đang là mùa khô. Sang tháng 8 và 9 là thời điểm giao mùa. Trời vẫn nắng nhẹ, bắt đầu có mưa lác đác và se lạnh về đêm."
+    ],
+    "sources": [
+      "news/cam-nang-nha-trang.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-hue.md",
+      "news/cam-nang-da-nang.md",
+      "news/cam-nang-hoi-an.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.868236243724823,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 3.78,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8896084560675712,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999
+  },
+  {
+    "id": "q05",
+    "question": "Ngoài hải sản, Nha Trang có những đặc sản nào?",
+    "answer": "Chào bạn, tôi là VietGo. Dựa trên tài liệu cung cấp, ngoài hải sản, Nha Trang còn có các món đặc sản và món ăn hấp dẫn sau:\n\n* Bánh xèo mực [1]\n* Nem nướng [1]\n* Bún chả cá [1]\n* Bánh căn [1]\n* Bánh ướt [1]\n* Bò nướng [1]\n* Thịt dê [1]\n* Lẩu đuôi bò [1]\n* Bò né, bò la [1]\n* Bánh mì [1]\n* Bánh đập [1]\n* Bánh xèo tôm mực chảo nhỏ và bánh xèo chảo to [1]\n* Bún cá dầm [1]",
+    "reference": "Ngoài hải sản, Nha Trang có bánh xèo mực, nem nướng, bún chả cá, bánh căn, bánh ướt.",
+    "contexts": [
+      "### Ăn gì\nNgoài hải sản, thành phố còn rất nhiều đặc sản, món ăn hấp dẫn như bánh xèo mực, nem nướng, bún chả cá, bánh căn, bánh ướt... Dưới đây là những địa chỉ và tụ điểm ăn uống tại Nha Trang.\n  * Bò nướng Lạc Cảnh - 44 Nguyễn Bỉnh Khiêm\n  * Quán dê Thanh Đa - 66 Nguyễn Thị Minh Khai\n  * Lẩu đuôi bò Anh Sang - 126 Nguyễn Khuyến\n  * Bò né, bò la quán Hoa - 9 Cô Bắc (chỉ bán sáng)\n  * Bánh mì Ba Lẹ - số 2 đường 2/4\n  * Bánh đập Dì Loan - 16A Hồng Lĩnh\n  * Nem nướng Hiệp - 96 Lương Định Của\n  * Bánh xèo tôm mực chảo nhỏ - 3 Trần Kim Hùng\n  * Bánh xèo chảo to - Chợ Đầm\n  * Bún cá dầm - 24 Nguyễn Công Trứ\n  * Hải sản Sơn Cảng quán - 142 Phạm Văn Đồng\n\nNgoài ra, nơi đây cũng có rất nhiều quán cà phê, trà chanh, trà sữa, chè được nhiều du khách và người dân địa phương yêu thích.",
+      "Cẩm nang du lịch\n# Nha Trang\n  *   *   *   *   * Trở lại Du lịch\n\nThứ ba, 21/7/2020, 07:37 (GMT+7)\n\n**Ngoài vui chơi trên biển, du khách có thể tham quan đảo khỉ, tháp bà Ponagar và thưởng thức món ngon của miền biển.**\nNha Trang, thành phố biển nằm tại vị trí trung tâm tỉnh Khánh Hòa, từ lâu đã là một trong những điểm du lịch hút khách nhất Việt Nam. Được thiên nhiên ban tặng những bãi biển, vùng vịnh đẹp cùng nhiều đảo lớn nhỏ, thành phố còn sở hữu nhiều danh lam thắng cảnh, điểm tham quan, vui chơi và cơ sở nghỉ dưỡng.",
+      "Thành phố Nha Trang nhìn từ trên cao. Ảnh: _Efired/Shutterstock_\nThành phố Nha Trang không quá lớn, trục đường chính chạy dọc theo bãi biển, vì vậy du khách nên thuê xe máy để tham quan, đặc biệt khi muốn thưởng thức ẩm thực của người địa phương. Xe máy có giá thuê khoảng 100.000 - 150.000 đồng. Thông thường ở các khách sạn sẽ cung cấp dịch vụ này.",
+      "### Đặc sản Phú Quốc\nNếu là tín đồ của ấm thực, bạn nên đi Phú Quốc vào khoảng tháng 5 đến tháng 11. Đây là mùa đi biển của dân địa phương nên sẽ có nhiều hải sản tươi sống, giá thành cũng sẽ rẻ hơn.\n**Gỏi cá trích:** Món đầu tiên trong danh sách ẩm thực bạn phải thử ở Phú Quốc là gỏi cá trích. Món này được bày bán khắp các nhà hàng, quán ăn từ cao cấp đến bình dân. Cá trích được sơ chế, cuốn chung với rau và bánh tráng, chấm với nước mắm hoàn toàn không có mùi tanh.",
+      "**Chợ đêm Phú Quốc** nằm tại đường Bạch Đằng, cách Dinh Cậu khoảng 1 km. Nơi đây hoạt động từ 17h - 23h những ngày cuối tuần, gồm nhiều quầy hàng bán hải sản tươi sống, đặc sản địa phương như nước mắm, kẹo sim, tiêu và đồ thủ công mỹ nghệ. Ngoài tham quan, mua sắm, du khách đừng quên thưởng thức các món hải sản tươi ngon được bày bán và chế biến tại chợ. Một số món ăn gợi ý khác là kem cuộn, bánh trứng, bánh bò thốt nốt...\nNgoài những địa điểm kể trên, nam đảo còn một số điểm tham quan như cơ sở sản xuất nước mắm, trang trại cấy ngọc trai và cơ sở rượu sim.\nĐến với Phú Quốc, một trong những trải nghiệm hấp dẫn nhất là tham quan các hòn đảo như Hòn Thơm, Móng Tay, Gầm Ghì, Mây Rút."
+    ],
+    "sources": [
+      "news/cam-nang-nha-trang.md",
+      "news/cam-nang-nha-trang.md",
+      "news/cam-nang-nha-trang.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.799936830997467,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 4.3,
+    "faithfulness": 0.9411764705882353,
+    "answer_relevancy": 0.9881151789466553,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999
+  },
+  {
+    "id": "q06",
+    "question": "Bãi Sao ở Phú Quốc nằm ở đâu và có gì hấp dẫn?",
+    "answer": "Chào bạn, dưới đây là thông tin về Bãi Sao tại Phú Quốc dựa trên tài liệu:\n\n* **Vị trí:** Bãi Sao thuộc thị trấn An Thới, cách thị trấn Dương Đông khoảng 28 km [3].\n* **Điểm hấp dẫn:**\n  * Là một trong những bãi biển đẹp nhất Phú Quốc với làn nước trong xanh và dải cát màu trắng mịn dài hơn 7 km [3].\n  * Du khách có thể thong dong trên bờ cát, lắng nghe tiếng sóng vào bình minh, tắm biển hoặc chụp ảnh [3].\n  * Nhờ có nước lặng và sóng êm, nơi đây thích hợp cho các hoạt động thể thao dưới nước, nổi bật là chèo thuyền kayak (giá thuê thuyền từ 100.000 - 150.000 đồng) [3].",
+    "reference": "Bãi Sao thuộc thị trấn An Thới, cách Dương Đông khoảng 28 km, có nước trong xanh, cát trắng mịn dài hơn 7 km, nước lặng sóng êm nên có nhiều hoạt động thể thao nước như chèo kayak (thuê thuyền 100.000 - 150.000 đồng).",
+    "contexts": [
+      "**Chợ đêm Phú Quốc** nằm tại đường Bạch Đằng, cách Dinh Cậu khoảng 1 km. Nơi đây hoạt động từ 17h - 23h những ngày cuối tuần, gồm nhiều quầy hàng bán hải sản tươi sống, đặc sản địa phương như nước mắm, kẹo sim, tiêu và đồ thủ công mỹ nghệ. Ngoài tham quan, mua sắm, du khách đừng quên thưởng thức các món hải sản tươi ngon được bày bán và chế biến tại chợ. Một số món ăn gợi ý khác là kem cuộn, bánh trứng, bánh bò thốt nốt...\nNgoài những địa điểm kể trên, nam đảo còn một số điểm tham quan như cơ sở sản xuất nước mắm, trang trại cấy ngọc trai và cơ sở rượu sim.\nĐến với Phú Quốc, một trong những trải nghiệm hấp dẫn nhất là tham quan các hòn đảo như Hòn Thơm, Móng Tay, Gầm Ghì, Mây Rút.",
+      "Cẩm nang du lịch\n# Phú Quốc\n  *   *   *   *   * Trở lại Du lịch\n\nThứ hai, 8/6/2020, 07:37 (GMT+7)\n\nQuần đảo Phú Quốc nằm trong vịnh Thái Lan, cách TP HCM khoảng 400 km về hướng tây. Nơi đây thu hút du khách trong và ngoài nước bởi các loại hình du lịch đa dạng, với tài nguyên biển, đảo phong phú; hệ sinh thái rừng, biển đa dạng.\nVùng biển Phú Quốc có 22 hòn đảo lớn, nhỏ, tổng diện tích khoảng 589,23 km2. Trong đó, đảo Phú Quốc lớn nhất được chia thành bắc đảo và nam đảo. Thị trấn Dương Đông nằm ở trung tâm.",
+      "Trong hành trình khám phá bắc đảo, du khách có thể ghé thăm các vườn tiêu, mua đặc sản đảo ngọc về làm quà. Các vườn tiêu gợi ý ở Khu Tượng, nơi trồng nhiều tiêu nhất, trên đường đi xã Bãi Thơm. Ngoài ra, trên đường đi Gành Dầu cũng có nhiều vườn tiêu để bạn tham quan, chụp ảnh.\n**Bãi Sao** là một trong những bãi biển đẹp nhất Phú Quốc, thuộc thị trấn An Thới, cách thị trấn Dương Đông khoảng 28 km. Nơi đây có làn nước trong xanh, nổi bật trên dải cát màu trắng mịn dài hơn 7 km. Tới đây, du khách có thể thong dong trên những bờ cát, lắng nghe tiếng sóng rì rào vào bình minh hay tắm biển, lưu lại những bức ảnh đẹp.\nNgoài ra, nơi này nước lặng, sóng êm nên có nhiều hoạt động thể thao dưới nước, nổi bật là chèo thuyền kayak. Giá thuyền cho thuê từ 100.000 - 150.000 đồng.",
+      "Không giống như Nha Trang với các bãi biển dễ ghé thăm từ đường lớn, đến Phú Quốc du khách thường phải đi xa để đến bãi biển. Vì vậy nếu muốn yên tĩnh, nghỉ dưỡng thì bạn nên ở resort, villa hoặc các bungalow gần bãi biển.\nBạn có thể chọn khu nghỉ đẹp theo vị trí, giá phòng dao động từ 1.800.000 đến 7.000.000 đồng một đêm. Ở Bắc đảo có Vinpearl Phú Quốc Resort, Nam Nghi Coral Peninsula Phú Quốc, Fusion Resort Phu Quoc. Phía Đông đảo có Rocks Beach Boutique Phu Quoc, ở xã Hàm Ninh, vừa khai trương vào đầu năm 2022 được ví như \"Maldives thu nhỏ\".",
+      "Tới đây, du khách cùng gia đình, bạn bè tìm hiểu về các loài thú trong môi trường sống tự nhiên của chúng. Gần đó là tổ hợp vui chơi giải trí VinWonders với nhiều trò chơi vui nhộn hoặc mạo hiểm, thủy cung thích hợp cho cả trẻ em và người lớn.\nCông viên 'nhốt người thả thú' ở Phú Quốc\nCông viên 'thú thả người nhốt' ở Phú Quốc.\n**Mũi Gành Dầu** là mô đất nhô ra biển, nằm ở phía tây bắc đảo. Do đường đi xa và chưa có nhiều du khách đến tham quan, mũi Gành Dầu mang vẻ đẹp hoang sơ với những ghềnh đá nhiều hình thù và bãi biển trong xanh."
+    ],
+    "sources": [
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8108178973197937,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 3.61,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9660179560360268,
+    "context_recall": 1.0,
+    "context_precision": 0.3333333333
+  },
+  {
+    "id": "q07",
+    "question": "Dinh Bà và Dinh Cậu ở Phú Quốc là gì?",
+    "answer": "Dinh Bà và Dinh Cậu tại Phú Quốc là:\n- Hai điểm đến linh thiêng nhất tại Phú Quốc, nằm ở thị trấn Dương Đông [1].\n- Nơi gắn với nhiều truyền thuyết về Cậu Quý, Cậu Tài, Chúa ngọc nương nương và Thủy Long Thánh Mẫu [1].\n- Nơi ngư dân đến để cầu an, cầu mưa thuận gió hòa và mùa đánh cá bội thu [1].",
+    "reference": "Dinh Bà và Dinh Cậu là hai điểm đến linh thiêng nhất Phú Quốc, ở thị trấn Dương Đông, nơi ngư dân cầu an, cầu mưa thuận gió hòa; lễ hội lớn tổ chức vào 15 tháng Giêng hằng năm.",
+    "contexts": [
+      "**Bãi Trường** dài khoảng 20 km, là một trong những điểm ngắm hoàng hôn đẹp nhất trên đảo ngọc. Tại đây, du khách có thể đến thăm câu lạc bộ Sunset Sanato Beach. Nơi này trang trí nhiều hoạt cảnh từ gỗ tre như cầu dẫn ra biển, đàn voi nước, ngôi nhà vỏ ốc, xích đu... để du khách lưu lại những hình ảnh đẹp trong ánh chiều vàng cam.\n**Dinh Bà và Dinh Cậu** là 2 điểm đến linh thiêng nhất tại Phú Quốc, nằm tại thị trấn Dương Đông. Gắn với nhiều truyền thuyết về Cậu Quý, Cậu Tài, Chúa ngọc nương nương, Thủy Long Thánh Mẫu, đây là nơi ngư dân tới cầu an, cầu mưa thuận gió hòa, mùa đánh cá bội thu. Vào 15 tháng Giêng hàng năm, ở đây tổ chức các lễ hội lớn.",
+      "**Mũi Dinh Cậu** là nơi ngắm hoàng hôn đẹp nhất với các ghềnh đá có hình thù như trái núi đang vươn mình ra biển. Hoàng hôn trên Mũi Dinh Cậu đẹp nhất vào từ tháng 5 đến tháng 9. Khi này cả nền trời và mặt biển cùng hoà một màu xanh dịu trông rất ấn tượng.\n\nDinh Cậu. Ảnh: _Khương Nha_\n**Nhà tù Phú Quốc** nằm tại xóm Cây Dừa, xã An Thới. Di tích là địa điểm tham quan thu hút du khách, được phục dựng một số cảnh để tái hiện lịch sử; mở cửa từ 7h đến 17h hàng ngày và miễn phí vé.",
+      "**Chợ đêm Phú Quốc** nằm tại đường Bạch Đằng, cách Dinh Cậu khoảng 1 km. Nơi đây hoạt động từ 17h - 23h những ngày cuối tuần, gồm nhiều quầy hàng bán hải sản tươi sống, đặc sản địa phương như nước mắm, kẹo sim, tiêu và đồ thủ công mỹ nghệ. Ngoài tham quan, mua sắm, du khách đừng quên thưởng thức các món hải sản tươi ngon được bày bán và chế biến tại chợ. Một số món ăn gợi ý khác là kem cuộn, bánh trứng, bánh bò thốt nốt...\nNgoài những địa điểm kể trên, nam đảo còn một số điểm tham quan như cơ sở sản xuất nước mắm, trang trại cấy ngọc trai và cơ sở rượu sim.\nĐến với Phú Quốc, một trong những trải nghiệm hấp dẫn nhất là tham quan các hòn đảo như Hòn Thơm, Móng Tay, Gầm Ghì, Mây Rút.",
+      "Đến đây, du khách cũng nên thưởng thức**Bún** **quậy Kiến Xây** , gần Dinh Cậu. Đây là món bún tươi, ăn kèm mực, chả cá và chả tôm. Điểm nhấn của bún quậy Phú Quốc là bát nước chấm \"tự phục vụ\" từ bột canh, đường, mì chính, quất (tắc), ớt xay. Mỗi bát có giá từ 35.000 đồng.\nPhú Quốc còn nhiều quán ăn ngon được người dân địa phương và du khách giới thiệu là **quán dê Hồ Kỳ** , đường 30/4; **quán Bò tơ** 100 Trần Hưng Đạo, quán **cơm niêu Nhà Xưa, 68 Lý Thường Kiệt**.",
+      "### Ăn ở đâu\nLà vùng biển đảo, Phú Quốc nổi tiếng với các món hải sản tươi sống, nổi bật là ghẹ, nhum, cá trích, bào ngư, ốc gai. Những làng chài như **Hàm Ninh, Cửa Cạn và Rạch Vẹm** cũng là điểm đến gợi ý để thưởng thức hải sản tươi sống, giá rẻ theo phong cách địa phương\nMột trong những quán hải sản nổi tiếng nhất ở đây là **quán Ra Khơi** , đường 30/4, thị trấn Dương Đông hay **quán Xin Chào** , với view ngắm hoàng hôn, tại 66 Trần Hưng Đạo, thị trấn Dương Đông. Giá trung bình từ 400.000 - 600.000 đồng một người. Một số địa chỉ khác là nhà hàng **Cơm Bắc 123** trên đường 30/4), **quán Quốc Anh** trên đường Bạch Đằng, bánh canh chả cá Phụng gần Dinh Cậu."
+    ],
+    "sources": [
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md",
+      "news/cam-nang-phu-quoc.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.7710475921630859,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 2.65,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9861854693297923,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999
+  },
+  {
+    "id": "q08",
+    "question": "Phở có nguồn gốc từ đâu?",
+    "answer": "Dựa trên các tài liệu được cung cấp, nguồn gốc của phở được ghi nhận như sau:\n\n* **Xuất xứ chung:** Phở có xuất xứ từ Việt Nam, với Hà Nội hoặc Nam Định là những địa phương thường được cho là nơi ra đời của món ăn này [2][5].\n* **Nguồn gốc cụ thể tại Nam Định:** Phở có nguồn gốc từ làng Vân Cù (nay là xã Nam Đồng, tỉnh Ninh Bình), nổi tiếng với dòng họ Cồ và người dân Giao Cù [2][4].\n* **Các giả thuyết về nguồn gốc lịch sử:**\n  * Bắt nguồn từ món \"ngưu nhục phấn\" của Quảng Đông [1].\n  * Bắt nguồn từ phương pháp chế biến thịt bò hầm *pot-au-feu* của Pháp kết hợp với gia vị và rau thơm Việt Nam [1].\n  * Bắt nguồn từ món \"xáo trâu\" (dùng bún) của Việt Nam, sau biến tấu thành \"xáo bò\" dùng bánh cuốn [1].",
+    "reference": "Phở được cho là ra đời vào đầu thế kỷ 20, xuất xứ thường được cho là Hà Nội hoặc Nam Định (làng Vân Cù). Một giả thuyết khác cho rằng phở bắt nguồn từ món bò hầm pot-au-feu của Pháp kết hợp gia vị Việt.",
+    "contexts": [
+      "Có người nói rằng phở bắt nguồn từ một món ăn Quảng Đông mang tên \"ngưu nhục phấn\" (tiếng Trung: 牛肉粉; bính âm: _niúròu fěn_ ; Việt bính: _ngau4 juk6 fan2_).\nCũng có giả thuyết khác cho rằng, phở có nguồn gốc từ phương pháp chế biến món thịt bò hầm của Pháp _pot-au-feu_ (đọc như \"pô tô phơ\") kết hợp với các loại gia vị và rau thơm trong ẩm thực Việt Nam.\nCũng có ý kiến cho rằng phở vốn bắt nguồn từ món \"xáo trâu\" (dùng sợi bún) của Việt Nam, sau được biến tấu thành món \"xáo bò\" dùng bánh cuốn.\nTuổi khai sinh của phở không được sử liệu ghi nhận chính thức. Các cuốn tự điển Việt như _Tự điển Việt - Bồ - La_ của Alexandre de Rhodes xuất bản năm 1651 không có từ \"phở\".  _Tự điển Huỳnh Tịnh Của_ (1895),  _Tự điển Genibrel_ (1898) cũng vậy",
+      "Phở như ngày nay được cho là đã ra đời và định hình vào những năm đầu thế kỷ 20. Hà Nội hay Nam Định là địa phương thường được cho là xuất xứ của phở. Ở Nam Định, phở có nguồn gốc từ làng Vân Cù (nay là xã Nam Đồng, tỉnh Ninh Bình), nổi tiếng với dòng họ Cồ đã mang nghề nấu phở gia truyền đi khắp mọi nơi sinh cơ lập nghiệp. Món phở được tin là bắt đầu phổ biến trong bối cảnh hình thành Nhà máy dệt Nam Định. Phở cũng xuất hiện ở Hà Nội từ những năm đầu thế kỷ 20, đây cũng được biết đến là nơi đã làm cho món ăn này trở nên nổi tiếng",
+      "##  Nguồn gốc\n[sửa | sửa mã nguồn]\nMột chữ Nôm được viết để ghi từ \"Phở\". Bộ _Mễ_ 米 bên trái biểu nghĩa sự liên quan đến gạo. Chữ _Phả_ 頗 bên phải dùng để gợi âm.\nMột trong những tài liệu đầu tiên nhắc đến phở là cuốn từ điển Hán-Việt Nhật Dụng Thường Đàm (日用常談) của Phạm Đình Hổ biên soạn vào năm 1827. Trong mục thực phẩm, cụm từ chữ Hán 玉酥餅 \"ngọc tô bính\" được chú thích bằng chữ Nôm là 𩛄普𤙭 \"bánh phở bò\".",
+      "Phở gia truyền ở Ninh Bình chủ yếu có nguồn gốc từ Hoa kiều ở Giao Cù  và từ họ Cồ ở làng Vân Cù, xã Nam Đồng, tỉnh Ninh Bình. Sau đó được truyền ra các làng bên cạnh nhưng đã được biến chế, không còn mang nét nguyên vẹn như xưa và thêm một số phụ gia. Vào thập niên 50, người Giao Cù đã mang món phở ra Hà Nội và bán theo xe đẩy. Từ giữa những năm 60 đến trước những năm 90 của thế kỷ 20, vì nhiều lý do nhất là khâu quản lý hành chính bao cấp về lương thực, thực phẩm, phở Vân Cù, Giao Cù vắng bóng ở những địa phương khác, nhưng từ năm 90 trở lại đây, Phở phục hồi trở lại và ngày càng phát triển mạnh. Hiện nay dân làng thuộc làng Vân Cù, Giao Cù và các làng lân cận đi khắp nơi từ Bắc vào Nam mở các quán phở đế kiếm kế sinh nhai và gìn giữ một món ăn ngon người Việt.",
+      "Phở\n|  Một bát phở bò  |\n| --- |\n| Loại  | Món mì gạo có nước dùng  |\n| Xuất xứ  | Việt Nam  |\n| Vùng hoặc bang  |  Hà Nội  |\n| Nhiệt độ dùng  | Nóng  |\n| Thành phần chính  |  Bánh phở, nước dùng, thịt bò hoặc thịt gà kèm với một số loại gia vị khác  |\n| Biến thể  | Phở gà, phở tái, phở tái lăn, phở gầu, phở sốt vang, Phở chiên...  |\n|\n  * Nấu ăn: Phở\n  * Media: Phở"
+    ],
+    "sources": [
+      "news/wiki-pho.md",
+      "news/wiki-pho.md",
+      "news/wiki-pho.md",
+      "news/wiki-pho.md",
+      "news/wiki-pho.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8091061115264893,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 3.28,
+    "faithfulness": 0.875,
+    "answer_relevancy": 0.9582715969782724,
+    "context_recall": 1.0,
+    "context_precision": 0.0
+  },
+  {
+    "id": "q09",
+    "question": "Nguyên liệu chính của bún bò Huế là gì?",
+    "answer": "Chào bạn, dựa trên các tài liệu được cung cấp, nguyên liệu chính của bún bò Huế bao gồm:\n\n* Bún, thịt bắp bò, giò heo, nước dùng có màu đỏ do ớt, vị sả và ruốc [1].\n* Bún, sả, thịt bò, giò heo, mắm ruốc [3].",
+    "reference": "Bún bò Huế gồm bún, thịt bắp bò, giò heo, với nước dùng màu đỏ đặc trưng từ ớt, cùng vị sả và ruốc.",
+    "contexts": [
+      "|\n**Bún bò Huế** là một trong những đặc sản của thành phố Huế, mặc dù món bún này phổ biến trên cả ba miền ở Việt Nam và cả người Việt tại hải ngoại. Tại Huế, món này được gọi đơn giản là \"_bún bò_ \" hoặc gọi cụ thể hơn là \"_bún bò - giò heo_ \". Các địa phương khác gọi là \"_bún bò Huế_ \", \"_bún bò gốc Huế_ \" để chỉ xuất xứ của món ăn này. Bún bò chính gốc Huế có nguyên liệu chính là bún, thịt bắp bò, giò heo, cùng nước dùng có màu đỏ đặc trưng do ớt và vị sả và ruốc.",
+      "Trong nước dùng của bún, người Huế thường nêm vào một ít mắm ruốc và sả cây, góp phần làm nên hương vị rất riêng của nồi bún bò Huế. Bún bò Huế được ăn với hành lá cắt nhỏ, hành tây cắt mỏng, chanh, nước mắm ngon dằm ớt trái và tương ớt kiểu Huế. Người Huế thuở xưa thường không ăn bún bò Huế với rau sống. Nếu có, thường là bắp chuối xắt mỏng, ít rau thơm (húng lủi) và rau răm. Bún bò Huế chính gốc không có thịt tái, huyết, chả lụa, mà có giò heo, thịt bắp bò và gân bò; huyết và chả lụa được thêm vào tùy theo từng hàng quán.",
+      "|   | Bài viết hoặc đoạn này **cần người am hiểu về chủ đề này trợ giúp biên tập mở rộng hoặc cải thiện**. Bạn có thể giúp cải thiện trang này nếu có thể. Xem trang thảo luận để biết thêm chi tiết. _( tháng 4/2022)_  |\n| --- | --- |\n|   | Nội dung của bài này hoặc đoạn này **hầu như chỉ dựa vàomột nguồn duy nhất**. Có thể có thảo luận liên quan tại trang thảo luận. Mời bạn góp sức phát triển bài bằng cách bổ sung thêm những chú thích hoặc nguồn thông tin khác.  |\n| --- | --- |\nBún bò Huế\n|  Một tô bún bò Huế.  |\n| --- |\n| Loại  | Mì  |\n| Xuất xứ  | Việt Nam  |\n| Vùng hoặc bang  | Huế  |\n| Thành phần chính  |  Bún, sả, thịt bò, giò heo, mắm ruốc  |\n|\n  * Nấu ăn: Bún bò Huế\n  * Media: Bún bò Huế",
+      "|\n**Wikibooks** có ghi công thức nấu ăn cho món:\n_**Bún bò Huế**_\n|  |\n| --- |\n| Ẩm thực Huế |\n|  Tổng quan Ẩm thực cung đình • Ẩm thực chay • Bánh bèo • Bánh bột lọc • Bánh canh Nam Phổ • Bánh khoái • Bánh nậm • Bánh phu thê • Bánh ướt thịt nướng • Bún bò Huế • Chè Huế • Cơm âm phủ • Cơm hến • Kẹo cau • Kẹo mè xửng • Mắm tôm chua • Rượu làng Chuồn • Rượu Minh Mạng (Minh Mạng Thang)  |\n|  Nguyên liệu, sản vật Quýt Hương Cần  |\n|  Liên quan Sản vật Huế • Ẩm thực Đà Nẵng • Ẩm thực Quảng Nam • Ẩm thực Khánh Hòa • Ẩm thực Bình Định • Ẩm thực miền Trung Việt Nam • Ẩm thực Sài Gòn • Ẩm thực Việt Nam  |\n|\n  * x\n  * t\n  * s",
+      "##  Nguyên liệu\n[sửa | sửa mã nguồn]\nCác nguyên liệu làm gỏi cuốn tập trung trong các nhóm:\n  * Thịt, đồ hải sản: là nguyên liệu chính quyết định hình thức và chất lượng của món nem cuốn, thịt có thể bao gồm thịt bò, thịt heo ba chỉ, tai heo, thịt vịt, tôm, cá các loại, cua, giò lụa, chả, trứng\n  * Bánh tráng: dùng loại bánh tráng riêng để ăn trực tiếp, thường mỏng và hơi mềm để không cần ủ mềm trước khi chế biến, phân biệt với loại bánh tráng cứng hơn thường dùng để cuốn nem rán. Bánh tráng để làm gỏi cuốn Nam bộ mỏng hơn nhiều so với bánh tráng để cuốn các món miền Trung.\n  * Rau thơm, rau sống các loại. Củ quả như dưa leo, dứa, củ sắn, nấm, chuối xanh, khế chua v.v.\n  * Bún: thường dùng bún sợi nhỏ, đặc biệt là bún lá. Một số món cuốn có thể không dùng bún."
+    ],
+    "sources": [
+      "news/wiki-bun-bo-hue.md",
+      "news/wiki-bun-bo-hue.md",
+      "news/wiki-bun-bo-hue.md",
+      "news/wiki-bun-bo-hue.md",
+      "news/wiki-goi-cuon.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8475314378738403,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 3.73,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9939547767699123,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999666667
+  },
+  {
+    "id": "q10",
+    "question": "Gỏi cuốn gồm những thành phần chính nào?",
+    "answer": "Chào bạn, dưới đây là các thành phần chính của gỏi cuốn dựa trên tài liệu:\n\n- Thịt heo (hoặc thịt ba chỉ luộc), tôm (tôm tươi, tôm khô hoặc tôm thẻ rang), rau thơm, bún, bánh tráng [1][3][5].\n- Ngoài ra, tài liệu cũng nhắc đến các thành phần và nguyên liệu khác như rau xà lách, húng quế, tía tô, trứng tráng, chuối xanh, khế chua [3][5].",
+    "reference": "Gỏi cuốn gồm thịt heo, tôm, rau thơm, bún, được cuốn trong bánh tráng.",
+    "contexts": [
+      "Đối với các định nghĩa khác, xem Gỏi.\nGỏi cuốn\n|  Gỏi cuốn được cuốn trong bánh tráng  |\n| --- |\n| Tên khác  | Nem cuốn  |\n| Bữa  | Khai vị  |\n| Xuất xứ  | Miền Nam (Việt Nam)  |\n| Nhiệt độ dùng  | Nhiệt độ phòng  |\n| Thành phần chính  |  Thịt heo, tôm, rau thơm, bún, bánh tráng  |\n|\n  * Nấu ăn: Gỏi cuốn\n  * Media: Gỏi cuốn",
+      "##  Nguyên liệu\n[sửa | sửa mã nguồn]\nCác nguyên liệu làm gỏi cuốn tập trung trong các nhóm:\n  * Thịt, đồ hải sản: là nguyên liệu chính quyết định hình thức và chất lượng của món nem cuốn, thịt có thể bao gồm thịt bò, thịt heo ba chỉ, tai heo, thịt vịt, tôm, cá các loại, cua, giò lụa, chả, trứng\n  * Bánh tráng: dùng loại bánh tráng riêng để ăn trực tiếp, thường mỏng và hơi mềm để không cần ủ mềm trước khi chế biến, phân biệt với loại bánh tráng cứng hơn thường dùng để cuốn nem rán. Bánh tráng để làm gỏi cuốn Nam bộ mỏng hơn nhiều so với bánh tráng để cuốn các món miền Trung.\n  * Rau thơm, rau sống các loại. Củ quả như dưa leo, dứa, củ sắn, nấm, chuối xanh, khế chua v.v.\n  * Bún: thường dùng bún sợi nhỏ, đặc biệt là bún lá. Một số món cuốn có thể không dùng bún.",
+      "|\nNguyên liệu làm gỏi cuốn Cách làm nem cuốn/gỏi cuốn tôm và cách làm nước chấm\n**Gỏi cuốn** hay còn được gọi là **Nem cuốn** (Phương ngữ miền Bắc), là một món ăn khá phổ biến ở Việt Nam. Gỏi cuốn có xuất xứ từ Miền nam Việt Nam với tên gọi là gỏi cuốn - bằng các nguyên liệu gồm rau xà lách, húng quế, tía tô, tôm khô, rau thơm, thịt luộc, tôm tươi.. tất cả được cuộn trong vỏ bánh tráng. Gia vị dùng kèm là tương hột trộn với lạc rang giã nhỏ phi bằng dầu ăn với hành khô.... tất cả thái nhỏ và cuộn trong vỏ làm từ bột mì hoặc là tương ớt trộn với lạc rang giã nhỏ phi bằng dầu ăn với hành khô.",
+      "##  Quy trình thực hiện\n[sửa | sửa mã nguồn]\n###  Chế biến nguyên liệu\n[sửa | sửa mã nguồn]\nBánh tráng được làm từ bột gạo, màu sắc của món bánh tráng cuốn được làm từ thành phần tự nhiên. Phần nhân bánh tráng cuốn gồm tép khô, hành phi, đậu phộng, muối tôm và sốt mayonnaise, đôi khi là thịt heo, dưa leo, bún, rau thơm.\nCác nguyên liệu động vật thường được chế biến chín bằng phương thức luộc, rang, xào (thịt, tôm), tráng (trứng) và thái dạng con chì, thái chỉ hoặc thái lạng từng miếng nhỏ, dài.\nRau xà lách, rau thơm rửa sạch, các loại củ quả thái chỉ hoặc thái miếng vừa ăn.\nBánh tráng ủ mềm, cắt miếng hình chữ nhật khoảng 10x20cm. Nếu sử dụng loại bánh còn mềm và đã cắt vuông thì không cần công đoạn trên.",
+      "* Nem cuốn tôm thịt: là món nem cuốn thông dụng còn được gọi là gỏi cuốn. Nguyên liệu chính là thịt ba chỉ luộc, trứng tráng, tôm thẻ rang lạng mỏng dọc thân, gói trong rau xà lách, bún và một số loại rau thơm khác trong đó không thể thiếu chuối xanh, khế chua.\n  * Bò cuốn lá cải: Thịt bò tái cuốn trong lá cải với một số loại rau như chuối chát, khế xanh v.v. và chấm nước sốt làm từ tương đen và mù tạc.\n  * Phở cuốn: một biến thể của món nem cuốn, dùng lá bánh phở cuộn với thịt bò xào. Lần đầu tiên xuất hiện ở ngã tư phố Ngũ Xã và đường Nguyễn Khắc Hiếu tại thành phố Hà Nội.\n  * Nem tai: Tai lợn luộc chín thái nhỏ, trộn thính cuốn bằng bánh tráng với các loại rau thơm, chủ yếu là lá sung, lá mơ tam thể, lá đinh lăng, lá kinh giới."
+    ],
+    "sources": [
+      "news/wiki-goi-cuon.md",
+      "news/wiki-goi-cuon.md",
+      "news/wiki-goi-cuon.md",
+      "news/wiki-goi-cuon.md",
+      "news/wiki-goi-cuon.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8268908858299255,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 2.97,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.977379033105966,
+    "context_recall": 1.0,
+    "context_precision": 0.8874999999778125
+  },
+  {
+    "id": "q11",
+    "question": "Cách gọi 'Hà Nội 36 phố phường' có chính xác không?",
+    "answer": "Cách gọi \"Hà Nội 36 phố phường\" là một cách gọi không chính xác, vì đây chỉ là cách gọi ước lệ khu vực đô thị cổ nằm bên trong và bên ngoài cả khu phố cổ [1].",
+    "reference": "Không hoàn toàn chính xác: 'Hà Nội 36 phố phường' là cách gọi không chính xác của khu phố cổ.",
+    "contexts": [
+      "Nhà phố thương mại phong cách Đông Dương tại khu phố cổ Hà Nội Phố Tạ Hiện\n**Khu phố cổ Hà Nội** là tên gọi thông thường của một khu vực đô thị có từ lâu đời của Hà Nội nằm ở ngoài hoàng thành Thăng Long. Khu đô thị này tập trung dân cư hoạt động tiểu thủ công nghiệp và buôn bán giao thương, hình thành lên những phố nghề đặc trưng, mang những nét truyền thống riêng biệt của cư dân thành thị, kinh đô. Ngày nay khu phố cổ Hà Nội là điểm đến hấp dẫn cho những ai muốn tìm hiểu về Thăng Long - Đông Đô - Hà Nội.\nKhu \"Hà Nội 36 phố phường\" là một cách gọi không chính xác của khu phố cổ, vì 36 phố phường là một cách gọi ước lệ khu vực đô thị cổ, nằm bên trong và bên ngoài cả khu phố cổ.",
+      "Việt Nam thi văn hợp tuyển của Dương Quảng Hàm có ghi lại ca dao về 36 phố ở Hà Nội như sau:     _Rủ nhau chơi khắp Long thành_     _Ba mươi sáu phố rành rành chẳng sai:_     _Hàng Bồ, hàng Bạc, hàng Gai,_     _Hàng Buồm, hàng Thiếc, hàng Bài, hàng Khay,_     _Mã Vĩ, hàng Điếu, hàng Giầy_     _Hàng Lờ, hàng Cót, hàng Mây, hàng Đàn,_     _Phố Mới,Phúc Kiến, hàng Ngang,_     _Hàng Mã, hàng Mắm, hàng Than, hàng Đồng,_     _Hàng Muối, hàng Nón, cầu Đông,_     _Hàng Hòm, hàng Đậu, hàng Bông, hàng Bè,_     _Hàng Thùng, hàng Bát, hàng Tre,_     _Hàng Vôi, hàng Giấy, hàng The, hàng Gà,_     _Quanh đi đến phốhàng Da,_     _Trải xem hàng phố, thật là cũng xinh._     _Phồn hoa thứ nhấtLong thành,_     _Phố giăng mắc cửi, đường quanh bàn cờ._     _Người về nhớ cảnh ngẩn ngơ,_     _Bút hoa xin chép",
+      "##  Vị trí\n[sửa | sửa mã nguồn]\nBản đồ giới hạn Khu phố cổ Hà Nội\nTheo quyết định số 70 BXD/KT-QH ngày 30 tháng 3 năm 1995 của Bộ Xây dựng, khu Phố cổ Hà nội có phạm vi được xác định: phía Bắc là phố Hàng Đậu; phía Tây là phố Phùng Hưng; phía Nam là các phố Hàng Bông, Hàng Gai, Cầu Gỗ và Hàng Thùng; phía Đông đường Trần Quang Khải và đường Trần Nhật Duật.\nKhu phố cổ Hà Nội thuộc địa bàn phường Hoàn Kiếm tổng diện tích khoảng 100 ha, có 76 tuyến phố thuộc phần lớn phường này.\nMặc dù các phố cổ của Hà Nội còn nằm cả bên ngoài khu vực này ở các phường khác như Ba Đình, Đống Đa, Hai Bà Trưng; nhưng do đây là khu vực tập trung phố cổ nhiều nhất và còn giữ được những đặc trưng nên chỉ khu vực theo quy định trên được gìn giữ, bảo tồn là khu phố cổ.",
+      "##  Lịch sử\n[sửa | sửa mã nguồn]\nBản đồ thành Hà Nội thời nhà Nguyễn và phố cổ Hà Nội lui về hướng đông Bản đồ Hà Nội năm 1885 Khu vực phố cổ Hà Nội 1890 nằm trong vòng đai\nKhu dân cư sinh hoạt và buôn bán sầm uất này đã được hình thành từ thời Lý - Trần, nằm ở phía đông của hoàng thành Thăng Long ra đến sát sông Hồng. Đầu đời đời Lê, trong sách Dư Địa Chí, Nguyễn Trãi cũng đã đề cập đến tên một số phường nghề tại đây. Dưới thời Lê, đặt phủ Phụng Thiên gồm hai huyện là Vĩnh Thuận và Thọ Xương, thì khu này nằm gọn trong bốn tổng Túc của huyện Thọ Xương là Tiền Túc, Hậu Túc, Tả Túc, Hữu Túc. Bên ngoài khu vực là vòng thành Đại La có trổ các cửa ô.",
+      "##  Tên các phố cổ\n[sửa | sửa mã nguồn]\nTên phố trong khu phố cổ đa số đầu tiên là chữ \"Hàng\", sau đó là tên sản phẩm. Bên cạnh đó có một số phố không theo quy tắc đó, và một số phố mới đặt sau này mang tên người.\n**Các phố có chữ \"Hàng\" trong khu phố cổ** (Dấu ** tương ứng với những tên phố hiện không còn dùng).\n|\n  * Hàng Áo**\n  * Hàng Bạc\n  * Hàng Bè\n  * Hàng Bông\n  * Hàng Bồ\n  * Hàng Buồm\n  * Hàng Bút\n  * Hàng Bừa**\n  * Hàng Cá\n  * Hàng Cân\n\n |\n  * Hàng Cau**\n  * Hàng Chai\n  * Hàng Chè**\n  * Hàng Chiếu\n  * Hàng Chiếu Cói**\n  * Hàng Chĩnh\n  * Hàng Cót\n  * Hàng Cuốc**\n  * Hàng Da\n  * Hàng Dầu\n\n |\n  * Hàng Dép**\n  * Hàng Đào\n  * Hàng Đàn**\n  * Hàng Đậu\n  * Hàng Điếu\n  * Hàng Đồng\n  * Hàng Đường\n  * Hàng Gà\n  * Hàng Gai\n  * Hàng Gạo**"
+    ],
+    "sources": [
+      "news/wiki-pho-co-ha-noi.md",
+      "news/wiki-pho-co-ha-noi.md",
+      "news/wiki-pho-co-ha-noi.md",
+      "news/wiki-pho-co-ha-noi.md",
+      "news/wiki-pho-co-ha-noi.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.801293134689331,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 3.34,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9587725047225082,
+    "context_recall": 1.0,
+    "context_precision": 0.8333333332916666
+  },
+  {
+    "id": "q12",
+    "question": "Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa hiện nay là bao nhiêu?",
+    "answer": "Chào bạn, tôi là VietGo. Dưới đây là mức ký quỹ kinh doanh dịch vụ lữ hành nội địa theo các tài liệu:\n\n* Theo Nghị định 168/2017/NĐ-CP, mức ký quỹ kinh doanh dịch vụ lữ hành nội địa là 100.000.000 (một trăm triệu) đồng [1].\n* Theo Nghị định 94/2021/NĐ-CP (sửa đổi, bổ sung Điều 14 của Nghị định số 168/2017/NĐ-CP), mức ký quỹ kinh doanh dịch vụ lữ hành nội địa là 20.000.000 (hai mươi triệu) đồng [2].",
+    "reference": "Theo Nghị định 94/2021/NĐ-CP (sửa Điều 14 Nghị định 168/2017), mức ký quỹ kinh doanh dịch vụ lữ hành nội địa là 20.000.000 đồng.",
+    "contexts": [
+      "### Điều 14. Mức ký quỹ và phương thức ký quỹ\n\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam:\n\n250.000.000 (hai trăm năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài:\n\n500.000.000 (năm trăm triệu) đồng;\n\nc) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng.",
+      "### Điều 1. Sửa đổi, bổ sung Điều 14 của Nghị định số 168/2017/NĐ-CP ngày 31\n\ntháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Du lịch về mức ký quỹ kinh doanh dịch vụ lữ hành Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 14 như sau:\n\n“1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 20.000.000 (hai mươi triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam:\n\n50.000.000 (năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài:\n\n100.000.000 (một trăm triệu) đồng;\n\nc) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng”.",
+      "### Điều 31. Điều kiện kinh doanh dịch vụ lữ hành\n\n1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;\n\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.\n\n2. Điều kiện kinh doanh dịch vụ lữ hành quốc tế bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng;",
+      "b) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng;\n\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.\n\n3. Doanh nghiệp đáp ứng các điều kiện kinh doanh quy định tại khoản 1 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa; đáp ứng các điều kiện kinh doanh quy định tại khoản 2 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế.\n\nPhí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy phép kinh doanh dịch vụ lữ hành nội địa được thực hiện theo quy định của pháp luật về phí và lệ phí.",
+      "### Điều 32. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh\n\ndịch vụ lữ hành nội địa\n\n1. Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;\n\nb) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp;\n\nc) Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành;\n\nd) Bản sao có chứng thực quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành;\n\nđ) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh doanh dịch vụ lữ hành quy định tại điểm c khoản 1 Điều 31 của Luật này."
+    ],
+    "sources": [
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md",
+      "legal/nghi-dinh-94-2021-ky-quy-lu-hanh.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8759936094284058,
+    "hit": true,
+    "reciprocal_rank": 0.5,
+    "latency_s": 3.6,
+    "faithfulness": 0.3333333333333333,
+    "answer_relevancy": 0.990956419326935,
+    "context_recall": 1.0,
+    "context_precision": 0.49999999995
+  },
+  {
+    "id": "q13",
+    "question": "Mức ký quỹ kinh doanh lữ hành quốc tế theo Nghị định 94/2021 là bao nhiêu?",
+    "answer": "Theo Nghị định 94/2021/NĐ-CP, mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế được quy định như sau [2]:\n\n* Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 50.000.000 (năm mươi triệu) đồng [2].\n* Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng [2].\n* Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng [2].",
+    "reference": "Kinh doanh lữ hành đối với khách quốc tế đến Việt Nam ký quỹ 50.000.000 đồng; đối với khách du lịch ra nước ngoài ký quỹ 100.000.000 đồng.",
+    "contexts": [
+      "### Điều 14. Mức ký quỹ và phương thức ký quỹ\n\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam:\n\n250.000.000 (hai trăm năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài:\n\n500.000.000 (năm trăm triệu) đồng;\n\nc) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng.",
+      "### Điều 1. Sửa đổi, bổ sung Điều 14 của Nghị định số 168/2017/NĐ-CP ngày 31\n\ntháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Du lịch về mức ký quỹ kinh doanh dịch vụ lữ hành Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 14 như sau:\n\n“1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 20.000.000 (hai mươi triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam:\n\n50.000.000 (năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài:\n\n100.000.000 (một trăm triệu) đồng;\n\nc) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng”.",
+      "CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc Số: 94/2021/NĐ-CP Hà Nội, ngày 28 tháng 10 năm 2021 NGHỊ ĐỊNH Sửa đổi, bổ sung Điều 14 của Nghị định số 168/2017/NĐ-CP ngày 31 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Du lịch về mức ký quỹ kinh doanh dịch vụ lữ hành Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nTheo đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;",
+      "### Điều 33. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh\n\ndịch vụ lữ hành quốc tế\n\n1. Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế bao gồm:\n\na) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;\n\nb) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư do cơ quan nhà nước có thẩm quyền cấp;\n\nc) Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành;\n\nd) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh doanh dịch vụ lữ hành quy định tại điểm c khoản 2 Điều 31 của Luật này;",
+      "### Điều 31. Điều kiện kinh doanh dịch vụ lữ hành\n\n1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;\n\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.\n\n2. Điều kiện kinh doanh dịch vụ lữ hành quốc tế bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng;"
+    ],
+    "sources": [
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md",
+      "legal/nghi-dinh-94-2021-ky-quy-lu-hanh.md",
+      "legal/nghi-dinh-94-2021-ky-quy-lu-hanh.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8471603393554688,
+    "hit": true,
+    "reciprocal_rank": 0.5,
+    "latency_s": 3.04,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9932042691351298,
+    "context_recall": 1.0,
+    "context_precision": 0.49999999995
+  },
+  {
+    "id": "q14",
+    "question": "Theo Luật Du lịch 2017, du lịch được định nghĩa như thế nào?",
+    "answer": "Theo Luật Du lịch 2017, du lịch được định nghĩa là các hoạt động có liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp với mục đích hợp pháp khác [4].",
+    "reference": "Du lịch là các hoạt động liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp mục đích hợp pháp khác.",
+    "contexts": [
+      "QUỐC HỘI Luật số: 09/2017/QH14 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc LUẬT DU LỊCH Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\n\nQuốc hội ban hành Luật Du lịch.",
+      "VĂN BẢN QUY PHẠM PHÁP LUẬT CHÍNH PHỦ CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc Số: 168/2017/NĐ-CP Hà Nội, ngày 31 tháng 12 năm 2017 NGHỊ ĐỊNH Quy định chi tiết một số điều của Luật Du lịch Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nTheo đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;\n\nChính phủ ban hành Nghị định quy định chi tiết một số điều của Luật Du lịch.",
+      "7. Điểm du lịch là nơi có tài nguyên du lịch được đầu tư, khai thác phục vụ khách du lịch.\n\n8. Chương trình du lịch là văn bản thể hiện lịch trình, dịch vụ và giá bán được định trước cho chuyến đi của khách du lịch từ điểm xuất phát đến điểm kết thúc chuyến đi.\n\n9. Kinh doanh dịch vụ lữ hành là việc xây dựng, bán và tổ chức thực hiện một phần hoặc toàn bộ chương trình du lịch cho khách du lịch.\n\n10. Hướng dẫn du lịch là hoạt động cung cấp thông tin, kết nối dịch vụ, dẫn khách du lịch, hỗ trợ khách du lịch sử dụng các dịch vụ theo chương trình du lịch.\n\n11. Hướng dẫn viên du lịch là người được cấp thẻ để hành nghề hướng dẫn du lịch.\n\n12. Cơ sở lưu trú du lịch là nơi cung cấp dịch vụ phục vụ nhu cầu lưu trú của khách du lịch.",
+      "### Điều 3. Giải thích từ ngữ\n\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n\n1. Du lịch là các hoạt động có liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp với mục đích hợp pháp khác.\n\n2. Khách du lịch là người đi du lịch hoặc kết hợp đi du lịch, trừ trường hợp đi học, làm việc để nhận thu nhập ở nơi đến.\n\n3. Hoạt động du lịch là hoạt động của khách du lịch, tổ chức, cá nhân kinh doanh du lịch và cơ quan, tổ chức, cá nhân, cộng đồng dân cư có liên quan đến du lịch.",
+      "## Chương I NHỮNG QUY ĐỊNH CHUNG\n\n### Điều 1. Phạm vi điều chỉnh\n\nLuật này quy định về tài nguyên du lịch, phát triển sản phẩm du lịch và hoạt động du lịch; quyền, nghĩa vụ của khách du lịch, tổ chức, cá nhân kinh doanh du lịch, cơ quan, tổ chức, cá nhân khác, cộng đồng dân cư có hoạt động liên quan đến du lịch; quản lý nhà nước về du lịch.\n\n### Điều 2. Đối tượng áp dụng\n\n1. Cơ quan, tổ chức, cá nhân Việt Nam hoạt động du lịch trên lãnh thổ Việt Nam và ở nước ngoài.\n\n2. Tổ chức, cá nhân nước ngoài hoạt động du lịch trên lãnh thổ Việt Nam.\n\n3. Cơ quan quản lý nhà nước về du lịch, cơ quan khác, tổ chức, cá nhân, cộng đồng dân cư có hoạt động liên quan đến du lịch."
+    ],
+    "sources": [
+      "legal/luat-du-lich-2017.md",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8268012404441833,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 3.15,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9999999999999994,
+    "context_recall": 1.0,
+    "context_precision": 0.249999999975
+  },
+  {
+    "id": "q15",
+    "question": "Khách du lịch có những quyền gì theo Luật Du lịch?",
+    "answer": "Theo Luật Du lịch, khách du lịch có các quyền sau đây:\n\n- Sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch [4].\n- Yêu cầu tổ chức, cá nhân kinh doanh du lịch cung cấp thông tin về chương trình, dịch vụ, điểm đến du lịch theo hợp đồng đã ký kết [4].\n- Được tạo điều kiện thuận lợi về xuất cảnh, nhập cảnh, quá cảnh, hải quan, lưu cư trú, đi lại trên lãnh thổ Việt Nam phù hợp với quy định của pháp luật và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên [4].\n- Được bảo đảm quyền và lợi ích hợp pháp theo hợp đồng đã giao kết với tổ chức, cá nhân kinh doanh, cung cấp dịch vụ du lịch [4].",
+    "reference": "Khách du lịch có quyền sử dụng dịch vụ du lịch hoặc tự đi du lịch; yêu cầu tổ chức, cá nhân kinh doanh cung cấp thông tin về chương trình, dịch vụ, điểm đến theo hợp đồng; được tạo điều kiện thuận lợi về xuất nhập cảnh, quá cảnh, hải quan, lưu trú, đi lại...",
+    "contexts": [
+      "c) Thông tin cho khách du lịch về chương trình du lịch, dịch vụ và các quyền, lợi ích hợp pháp của khách du lịch;\n\nd) Hướng dẫn khách du lịch theo đúng chương trình du lịch, có thái độ văn minh, tận tình và chu đáo với khách du lịch; báo cáo người phụ trách kinh doanh dịch vụ lữ hành quyết định thay đổi chương trình du lịch trong trường hợp khách du lịch có yêu cầu;\n\nđ) Có trách nhiệm hỗ trợ trong việc bảo đảm an toàn tính mạng, sức khỏe, tài sản của khách du lịch;\n\ne) Tham gia khóa cập nhật kiến thức theo quy định tại khoản 4 Điều 62 của Luật này;\n\ng) Đeo thẻ hướng dẫn viên du lịch trong khi hành nghề hướng dẫn du lịch;",
+      "### Điều 65. Quyền và nghĩa vụ của hướng dẫn viên du lịch\n\n1. Hướng dẫn viên du lịch có quyền sau đây:\n\na) Tham gia tổ chức xã hội - nghề nghiệp về hướng dẫn du lịch;\n\nb) Nhận tiền lương và khoản thù lao khác theo hợp đồng;\n\nc) Tham gia các khóa bồi dưỡng kiến thức, chuyên môn, nghiệp vụ, kỹ năng hành nghề hướng dẫn du lịch;\n\nd) Trong trường hợp khẩn cấp hoặc bất khả kháng, được quyền thay đổi chương trình du lịch, điều chỉnh tiêu chuẩn, dịch vụ của khách du lịch.\n\n2. Hướng dẫn viên du lịch có nghĩa vụ sau đây:\n\na) Hướng dẫn khách du lịch theo nhiệm vụ được giao hoặc theo hợp đồng hướng dẫn;\n\nb) Tuân thủ, hướng dẫn khách du lịch tuân thủ pháp luật Việt Nam, pháp luật nơi đến du lịch, nội quy nơi đến tham quan; tôn trọng phong tục, tập quán của địa phương;",
+      "### Điều 25. Quyền và nghĩa vụ của tổ chức, cá nhân quản lý điểm du lịch\n\n1. Tổ chức, cá nhân quản lý điểm du lịch có quyền sau đây:\n\na) Đầu tư, khai thác, bảo vệ tài nguyên du lịch;\n\nb) Ban hành nội quy; tổ chức kinh doanh dịch vụ phục vụ khách du lịch;\n\nc) Tổ chức dịch vụ hướng dẫn; quy định, quản lý việc sử dụng hướng dẫn viên du lịch trong phạm vi quản lý;\n\nd) Được thu phí theo quy định của pháp luật.\n\n2. Tổ chức, cá nhân quản lý điểm du lịch có nghĩa vụ sau đây:\n\na) Bảo đảm điều kiện quy định tại khoản 1 Điều 23 của Luật này;\n\nb) Tạo điều kiện thuận lợi cho khách du lịch đến tham quan;\n\nc) Quản lý, giám sát hoạt động kinh doanh dịch vụ du lịch trong phạm vi quản lý;\n\nd) Bảo đảm an toàn cho khách du lịch, trật tự, an toàn xã hội, bảo vệ môi trường tại điểm du lịch;",
+      "### Điều 11. Quyền của khách du lịch\n\n1. Sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch.\n\n2. Yêu cầu tổ chức, cá nhân kinh doanh du lịch cung cấp thông tin về chương trình, dịch vụ, điểm đến du lịch theo hợp đồng đã ký kết.\n\n3. Được tạo điều kiện thuận lợi về xuất cảnh, nhập cảnh, quá cảnh, hải quan, lưu cư trú, đi lại trên lãnh thổ Việt Nam phù hợp với quy định của pháp luật và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.\n\n4. Được bảo đảm quyền và lợi ích hợp pháp theo hợp đồng đã giao kết với tổ chức, cá nhân kinh doanh, cung cấp dịch vụ du lịch.",
+      "## Chương I NHỮNG QUY ĐỊNH CHUNG\n\n### Điều 1. Phạm vi điều chỉnh\n\nNghị định này quy định chi tiết một số điều của Luật Du lịch về điều tra, đánh giá, phân loại tài nguyên du lịch; biện pháp bảo đảm an toàn cho khách du lịch đối với những sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch; điều kiện công nhận điểm du lịch, khu du lịch; ký quỹ kinh doanh dịch vụ lữ hành; cấp, cấp đổi, cấp lại, thu hồi biển hiệu phương tiện vận tải khách du lịch; điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ phục vụ khách du lịch của cơ sở lưu trú du lịch và nguồn hình thành Quỹ hỗ trợ phát triển du lịch."
+    ],
+    "sources": [
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8327001333236694,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 3.02,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9910967691578018,
+    "context_recall": 1.0,
+    "context_precision": 0.249999999975
+  },
+  {
+    "id": "q16",
+    "question": "Thẻ hướng dẫn viên du lịch quốc tế và nội địa có thời hạn bao lâu?",
+    "answer": "- Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm [1].",
+    "reference": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm.",
+    "contexts": [
+      "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm.\n\n5. Phí thẩm định cấp thẻ hướng dẫn viên du lịch được thực hiện theo quy định của pháp luật về phí và lệ phí.",
+      "### Điều 58. Hướng dẫn viên du lịch, thẻ hướng dẫn viên du lịch\n\n1. Hướng dẫn viên du lịch bao gồm hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch tại điểm.\n\n2. Phạm vi hành nghề của hướng dẫn viên du lịch được quy định như sau:\n\na) Hướng dẫn viên du lịch quốc tế được hướng dẫn cho khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam trong phạm vi toàn quốc và đưa khách du lịch ra nước ngoài;\n\nb) Hướng dẫn viên du lịch nội địa được hướng dẫn cho khách du lịch nội địa là công dân Việt Nam trong phạm vi toàn quốc;\n\nc) Hướng dẫn viên du lịch tại điểm được hướng dẫn cho khách du lịch trong phạm vi khu du lịch, điểm du lịch.\n\n3. Điều kiện hành nghề của hướng dẫn viên du lịch bao gồm:\n\na) Có thẻ hướng dẫn viên du lịch;",
+      "3. Điều kiện hành nghề của hướng dẫn viên du lịch bao gồm:\n\na) Có thẻ hướng dẫn viên du lịch;\n\nb) Có hợp đồng lao động với doanh nghiệp kinh doanh dịch vụ lữ hành, doanh nghiệp cung cấp dịch vụ hướng dẫn du lịch hoặc là hội viên của tổ chức xã hội - nghề nghiệp về hướng dẫn du lịch đối với hướng dẫn viên du lịch quốc tế và hướng dẫn viên du lịch nội địa;\n\nc) Có hợp đồng hướng dẫn với doanh nghiệp kinh doanh dịch vụ lữ hành hoặc văn bản phân công hướng dẫn theo chương trình du lịch; đối với hướng dẫn viên du lịch tại điểm, phải có phân công của tổ chức, cá nhân quản lý khu du lịch, điểm du lịch.\n\n4. Thẻ hướng dẫn viên du lịch bao gồm thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa và thẻ hướng dẫn viên du lịch tại điểm.",
+      "### Điều 62. Cấp đổi thẻ hướng dẫn viên du lịch\n\n1. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa làm thủ tục đề nghị cấp đổi thẻ hướng dẫn viên du lịch khi thẻ hết hạn sử dụng.\n\n2. Hồ sơ đề nghị cấp đổi thẻ hướng dẫn viên du lịch bao gồm:\n\na) Đơn đề nghị cấp đổi thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;\n\nb) Giấy tờ quy định tại các điểm b, d và đ khoản 1 Điều 60 của Luật này;\n\nc) Bản sao có chứng thực giấy chứng nhận đã qua khóa cập nhật kiến thức cho hướng dẫn viên du lịch do cơ quan nhà nước có thẩm quyền cấp;\n\nd) Thẻ hướng dẫn viên du lịch đã được cấp.\n\n3. Trình tự, thủ tục cấp đổi thẻ hướng dẫn viên du lịch được quy định như sau:",
+      "g) Đeo thẻ hướng dẫn viên du lịch trong khi hành nghề hướng dẫn du lịch;\n\nh) Hướng dẫn viên du lịch quốc tế và hướng dẫn viên du lịch nội địa phải mang theo giấy tờ phân công nhiệm vụ của doanh nghiệp tổ chức chương trình du lịch và chương trình du lịch bằng tiếng Việt trong khi hành nghề. Trường hợp hướng dẫn khách du lịch quốc tế thì hướng dẫn viên du lịch phải mang theo chương trình du lịch bằng tiếng Việt và tiếng nước ngoài."
+    ],
+    "sources": [
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md",
+      "legal/luat-du-lich-2017.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.8661941885948181,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 2.5,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9926639043438207,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999
+  },
+  {
+    "id": "q17",
+    "question": "Thị thực du lịch (DL) và thị thực điện tử (EV) có thời hạn tối đa bao lâu?",
+    "answer": "Chào bạn, dựa trên tài liệu cung cấp, thời hạn của thị thực du lịch (DL) và thị thực điện tử (EV) như sau:\n\n* Thị thực ký hiệu DL và EV có thời hạn không quá 90 ngày [1].",
+    "reference": "Thị thực ký hiệu HN, DL, EV có thời hạn không quá 90 ngày.",
+    "contexts": [
+      "### Điều 9. Thời hạn thị thực\n\n1.18 Thị thực ký hiệu SQ có thời hạn không quá 30 ngày.\n\n2.19 Thị thực ký hiệu HN, DL, EV có thời hạn không quá 90 ngày.\n\n14 Khoản này được sửa đổi, bổ sung theo quy định tại điểm e khoản 3 Điều 1 của Luật số 51/2019/QH14 sửa đổi, bổ sung một số điều của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam, có hiệu lực kể từ ngày 01 tháng 7 năm 2020.\n\n15 Khoản này được bổ sung theo quy định tại điểm g khoản 3 Điều 1 của Luật số 51/2019/QH14 sửa đổi, bổ sung một số điều của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam, có hiệu lực kể từ ngày 01 tháng 7 năm 2020.",
+      "5.22 Thị thực ký hiệu LĐ1, LĐ2 có thời hạn không quá 02 năm.\n\n5a.23 Thị thực ký hiệu ĐT3 có thời hạn không quá 03 năm.\n\n6.24 Thị thực ký hiệu LS, ĐT1, ĐT2 có thời hạn không quá 05 năm.\n\n7. Thị thực hết hạn, được xem xét cấp thị thực mới.\n\n8. Thời hạn thị thực ngắn hơn thời hạn hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế ít nhất 30 ngày.\n\n9.25 Trường hợp điều ước quốc tế mà Việt Nam là thành viên có quy định khác thì thời hạn thị thực cấp theo điều ước quốc tế.",
+      "20. SQ - Cấp cho các trường hợp quy định tại khoản 3 Điều 17 của Luật này.\n\n21.17 EV - Thị thực điện tử.",
+      "### Điều 7. Hình thức và giá trị sử dụng của thị thực4\n\n1. Thị thực được cấp vào hộ chiếu, cấp rời hoặc cấp qua giao dịch điện tử. Thị thực cấp qua giao dịch điện tử là thị thực điện tử.\n\n2. Thị thực được cấp riêng cho từng người, trừ các trường hợp sau đây:\n\na) Cấp thị thực theo cha hoặc mẹ hoặc người giám hộ đối với trẻ em dưới 14 tuổi chung hộ chiếu với cha hoặc mẹ hoặc người giám hộ;",
+      "Điều 19a. Các nước, vùng lãnh thổ có công dân được cấp thị thực điện tử và các cửa khẩu quốc tế cho phép người nước ngoài nhập cảnh, xuất cảnh bằng thị thực điện tử33\n\n1. Việc cấp thị thực điện tử được áp dụng trên cơ sở bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, phù hợp với chính sách đối ngoại và phát triển kinh tế - xã hội của Việt Nam.\n\n2. Chính phủ quyết định danh sách các nước, vùng lãnh thổ có công dân được cấp thị thực điện tử; danh sách các cửa khẩu quốc tế cho phép người nước ngoài nhập cảnh, xuất cảnh bằng thị thực điện tử."
+    ],
+    "sources": [
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.7326550483703613,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 2.39,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9927274786606418,
+    "context_recall": 1.0,
+    "context_precision": 0.9999999999
+  },
+  {
+    "id": "q18",
+    "question": "Sau khi nộp đủ thông tin và phí, bao lâu thì có kết quả cấp thị thực điện tử?",
+    "answer": "Chào bạn, dựa trên tài liệu cung cấp, thời hạn giải quyết và trả lời kết quả cấp thị thực điện tử là **03 ngày làm việc** kể từ ngày cơ quan quản lý xuất nhập cảnh nhận đủ thông tin đề nghị cấp thị thực điện tử và phí cấp thị thực [1][2].",
+    "reference": "Cơ quan quản lý xuất nhập cảnh xem xét và trả lời trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ thông tin đề nghị và phí cấp thị thực điện tử.",
+    "contexts": [
+      "2. Cơ quan quản lý xuất nhập cảnh xem xét, giải quyết, trả lời người đề nghị cấp thị thực điện tử tại Trang thông tin cấp thị thực điện tử trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ thông tin đề nghị cấp thị thực điện tử và phí cấp thị thực.\n\n3. Người nước ngoài được cấp thị thực điện tử sử dụng mã hồ sơ điện tử để kiểm tra và in kết quả cấp thị thực điện tử tại Trang thông tin cấp thị thực điện tử.\n\nĐiều 16b. Thủ tục cấp thị thực điện tử theo đề nghị của cơ quan, tổ chức32\n\n1. Cơ quan, tổ chức quy định tại khoản 2 Điều 16 của Luật này được đề nghị cấp thị thực điện tử cho người nước ngoài khi có đủ các điều kiện sau đây:",
+      "3. Cơ quan, tổ chức quy định tại khoản 1 Điều này sử dụng tài khoản điện tử truy cập vào Trang thông tin cấp thị thực điện tử để đề nghị cấp thị thực điện tử cho người nước ngoài; nộp phí cấp thị thực vào tài khoản quy định tại Trang thông tin cấp thị thực điện tử sau khi nhận mã hồ sơ điện tử của cơ quan quản lý xuất nhập cảnh.\n\n4. Cơ quan quản lý xuất nhập cảnh xem xét, giải quyết, trả lời cơ quan, tổ chức tại Trang thông tin cấp thị thực điện tử trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ thông tin đề nghị cấp thị thực điện tử và phí cấp thị thực.\n\n5. Cơ quan, tổ chức truy cập vào Trang thông tin cấp thị thực điện tử, sử dụng mã hồ sơ điện tử để nhận kết quả trả lời của cơ quan quản lý xuất nhập cảnh và thông báo cho người nước ngoài.",
+      "7.30 Cơ quan, tổ chức mời, bảo lãnh người nước ngoài được lựa chọn gửi văn bản đề nghị cấp thị thực cho người nước ngoài và nhận kết quả trả lời qua giao dịch điện tử tại Cổng thông tin điện tử về xuất nhập cảnh nếu đủ điều kiện quy định tại khoản 1 Điều 16b của Luật này.\n\nĐiều 16a. Thủ tục cấp thị thực điện tử theo đề nghị của người nước ngoài31\n\n1. Người nước ngoài đề nghị cấp thị thực điện tử thực hiện như sau:\n\na) Khai thông tin đề nghị cấp thị thực điện tử, tải ảnh và trang nhân thân hộ chiếu tại Trang thông tin cấp thị thực điện tử;\n\nb) Nộp phí cấp thị thực vào tài khoản quy định tại Trang thông tin cấp thị thực điện tử sau khi nhận mã hồ sơ điện tử của cơ quan quản lý xuất nhập cảnh.",
+      "### Điều 7. Hình thức và giá trị sử dụng của thị thực4\n\n1. Thị thực được cấp vào hộ chiếu, cấp rời hoặc cấp qua giao dịch điện tử. Thị thực cấp qua giao dịch điện tử là thị thực điện tử.\n\n2. Thị thực được cấp riêng cho từng người, trừ các trường hợp sau đây:\n\na) Cấp thị thực theo cha hoặc mẹ hoặc người giám hộ đối với trẻ em dưới 14 tuổi chung hộ chiếu với cha hoặc mẹ hoặc người giám hộ;",
+      "Điều 19a. Các nước, vùng lãnh thổ có công dân được cấp thị thực điện tử và các cửa khẩu quốc tế cho phép người nước ngoài nhập cảnh, xuất cảnh bằng thị thực điện tử33\n\n1. Việc cấp thị thực điện tử được áp dụng trên cơ sở bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, phù hợp với chính sách đối ngoại và phát triển kinh tế - xã hội của Việt Nam.\n\n2. Chính phủ quyết định danh sách các nước, vùng lãnh thổ có công dân được cấp thị thực điện tử; danh sách các cửa khẩu quốc tế cho phép người nước ngoài nhập cảnh, xuất cảnh bằng thị thực điện tử."
+    ],
+    "sources": [
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md",
+      "legal/luat-nhap-canh-nguoi-nuoc-ngoai-hop-nhat-2023.md"
+    ],
+    "retrieval_source": "hybrid",
+    "best_dense_score": 0.7562243342399597,
+    "hit": true,
+    "reciprocal_rank": 1.0,
+    "latency_s": 2.85,
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9445887725148295,
+    "context_recall": 1.0,
+    "context_precision": 0.99999999995
+  }
+]
